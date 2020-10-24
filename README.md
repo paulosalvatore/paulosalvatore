@@ -1,7 +1,7 @@
 # Visit my YouTube channel:
 
 <a href="https://www.youtube.com/channel/UCbWFEr7zsKJ92Psrfam7W8Q/" target="_blank">
-	<img src="BannerGitHub.jpg"/>
+	<img src="Python_Parte2_Modelo2.png.jpg"/>
 </a>
 
 # My stats
