@@ -1,4 +1,4 @@
-# Live na próxima semana, no meu canal do YouTube:
+# Live sexta-feira, 30/10, no meu canal do YouTube:
 
 <a href="https://www.youtube.com/channel/UCbWFEr7zsKJ92Psrfam7W8Q/" target="_blank">
 	<img src="Python_Parte2_Modelo2.png"/>
