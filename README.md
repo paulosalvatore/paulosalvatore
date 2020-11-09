@@ -1,8 +1,8 @@
-# Live sexta-feira, 06/11, no meu canal do YouTube:
+# Live sexta-feira, 13/11, no meu canal do YouTube:
 
-<a href="https://youtu.be/XSuFa6dT3sU" target="_blank">
+<!--<a href="https://youtu.be/XSuFa6dT3sU" target="_blank">
 	<img src="Python_Parte3.png"/>
-</a>
+</a>-->
 
 # My stats
 
