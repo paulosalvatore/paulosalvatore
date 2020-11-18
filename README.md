@@ -1,8 +1,10 @@
-# Live sexta-feira, 13/11, no meu canal do YouTube:
+# Live sexta-feira, 20/11, no meu canal do YouTube.
 
+<!--
 <a href="https://youtu.be/ZqC52VPgy9E" target="_blank">
 	<img src="Realidade_Aumentada.png"/>
 </a>
+-->
 
 # My stats
 
