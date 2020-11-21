@@ -1,4 +1,4 @@
-# Live sexta-feira, 20/11, no meu canal do YouTube.
+# Live toda sexta-feira, no canal do YouTube <a href="https://www.youtube.com/channel/UCbWFEr7zsKJ92Psrfam7W8Q/" target="_blank">Fábrica de Sinapse</a>.
 
 <!--
 <a href="https://youtu.be/ZqC52VPgy9E" target="_blank">
