@@ -1,10 +1,4 @@
-# Live toda sexta-feira, no canal do YouTube <a href="https://www.youtube.com/channel/UCbWFEr7zsKJ92Psrfam7W8Q/" target="_blank">Fábrica de Sinapse</a>.
-
-<!--
-<a href="https://youtu.be/ZqC52VPgy9E" target="_blank">
-	<img src="Realidade_Aumentada.png"/>
-</a>
--->
+# Live toda sexta-feira, no meu canal do YouTube <a href="https://www.youtube.com/c/PauloSalvatore" target="_blank">Paulo Salvatore</a>.
 
 # My stats
 
