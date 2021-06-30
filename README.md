@@ -1,4 +1,4 @@
-# Live toda sexta-feira, no meu canal do YouTube <a href="https://www.youtube.com/c/PauloSalvatore" target="_blank">Paulo Salvatore</a>.
+# Visite o meu canal no YouTube: <a href="https://www.youtube.com/c/PauloSalvatore" target="_blank">Canal Paulo Salvatore</a>.
 
 # My stats
 
