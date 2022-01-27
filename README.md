@@ -17,4 +17,4 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/paulosalvatore/wilkerHop/output/github-snake.svg" align="center" />
+<img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" align="center" />
