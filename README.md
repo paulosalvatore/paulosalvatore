@@ -36,7 +36,7 @@
 
 🏫 Formado em Jogos Digitais pela FIAP, fiz uma pós em gestão estratégica de negócios, pra sair um pouco da zona de conforto tech. Colaborei em um [artigo científico](https://www.mdpi.com/2073-4441/13/9/1142) publicado na revista [Water](https://www.mdpi.com/), sobre usar realidade virtual no planejamento da mudança climática.
 
-🌎 Cofundei a [Virtual Planet](https://virtualplanet.tech/), startup localizada na Califórnia que utiliza tecnologias imersivas para comunicar melhor os problemas relacionados a mudança climática.
+🌎 Cofundei a [Virtual Planet](https://virtualplanet.tech/), startup localizada na Califórnia que utiliza tecnologias imersivas para comunicar melhor os problemas relacionados à mudança climática.
 
 🔮 Atualmente estou em busca de ampliar meus projetos de educação e adquirir novas experiências no mundo da programação. Meu sonho é conseguir commitar em alguns projetos de código aberto que sempre estão no meu dia a dia, já consegui [um pouquinho](https://github.com/nestjs/docs.nestjs.com/pulls?q=is%3Apr+is%3Aclosed+author%3Apaulosalvatore) com o Nest, mas por enquanto só no projeto da documentação haha.  
   
