@@ -154,7 +154,7 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp"/>
 </div>
 
 <br />
