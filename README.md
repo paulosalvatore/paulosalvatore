@@ -162,10 +162,15 @@ com o Nest, mas por enquanto só no projeto da documentação haha.
 
 ### Cloud & DevOps
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" height="50" />
+<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" title="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" title="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" title="Linux" height="50" /> <br />
+<img style="margin: 10px" src="assets/aws-cloudfront.svg" alt="AWS CloudFront" title="AWS CloudFront" height="50" />
+<img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
+<img style="margin: 10px" src="assets/aws-ec2.svg" alt="AWS EC2" title="AWS EC2" height="50" />
+<img style="margin: 10px" src="assets/aws-lambda.svg" alt="AWS Lambda" title="AWS Lambda" height="50" />
+<img style="margin: 10px" src="assets/aws-rds.svg" alt="AWS RDS" title="AWS RDS" height="50" />
 
 </td>
 </tr>
@@ -175,8 +180,9 @@ com o Nest, mas por enquanto só no projeto da documentação haha.
 
 ### Started With
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" title="PHP" height="50" />
 <img style="margin: 10px" src="assets/lua.svg" alt="Lua" title="Lua" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" title="XAMPP" height="50" />
 
 </td>
 <td align="center">
