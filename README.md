@@ -34,7 +34,7 @@ servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
 
 👨🏼‍💻 CTO aos 24, primeiro emprego como dev em dez/2016, professor desde mar/2017, tô sempre em busca de compartilhar
 o conhecimento que adquiri ao longo dessa [jornada](https://www.linkedin.com/in/salvatorepaulo/details/experience/).
-Atualmente leciono cursos gratuitos no [Samsung Ocean](https://oceanbrasil.com/) e na [FIAP](https://www.fiap.com.br/) na graduação
+Atualmente leciono cursos gratuitos no [Samsung Ocean](https://oceanbrasil.com/), e faço parte da [FIAP](https://www.fiap.com.br/) na graduação
 de [Jogos Digitais](https://www.fiap.com.br/graduacao/tecnologo/jogos-digitais/) e no MBA de [Gestão da TI](https://www.fiap.com.br/mba/mba-em-gestao-da-tecnologia-da-informacao/).
 
 📙 Escritor na [casa do código](https://www.casadocodigo.com.br/),
