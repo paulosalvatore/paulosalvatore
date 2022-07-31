@@ -28,12 +28,11 @@
 
 ### Feliz de te ver aqui!
 
-👨🏼‍🏫 Sou professor diariamente e programador nas horas vagas, ou seria o contrário? Comecei a ~~programar~~ copiar
-e colar código aos ~12 anos, criando os [meus próprios](https://github.com/paulosalvatore/maruim_server)
-servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
+👨🏼‍🏫 Professor e desenvolvedor, comecei a ~~programar~~ copiar e colar código aos ~12 anos,
+criando os [meus próprios](https://github.com/paulosalvatore/maruim_server) servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
 
-👨🏼‍💻 CTO aos 24, tive meu primeiro emprego como dev em dez/2016. Atuando como professor desde mar/2017, tô sempre em busca de compartilhar
-o conhecimento que adquiri ao longo dessa [jornada](https://www.linkedin.com/in/salvatorepaulo/details/experience/).
+👨🏼‍💻 Iniciei a faculdade aos 22, tive o meu primeiro emprego como dev aos 23, em dez/2016, e me tornei CTO aos 24. Atuando como professor desde
+mar/2017, tô sempre em busca de compartilhar o conhecimento que adquiri ao longo dessa [jornada](https://www.linkedin.com/in/salvatorepaulo/details/experience/).
 Atualmente leciono cursos gratuitos no [Samsung Ocean](https://oceanbrasil.com/) e faço parte da [FIAP](https://www.fiap.com.br/), na graduação
 de [Jogos Digitais](https://www.fiap.com.br/graduacao/tecnologo/jogos-digitais/) e no MBA de [Gestão da TI](https://www.fiap.com.br/mba/mba-em-gestao-da-tecnologia-da-informacao/).
 
@@ -223,13 +222,13 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <!-- STATS:START -->
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="My contributions" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
 </div>
 
 <!-- STATS:END -->
