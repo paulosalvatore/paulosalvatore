@@ -1,3 +1,15 @@
+## Salve! 👋🏻 Sou o Paulo Salvatore :)
+
+<a href="https://github.com/paulosalvatore" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/paulosalvatoree" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/salvatorepaulo" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 ### 📺 Últimos vídeos no YouTube
 
 <!-- YOUTUBE:START -->
@@ -11,18 +23,6 @@
 ➡️ [mais vídeos...](https://youtube.com/PauloSalvatore)
 
 <!-- BIO:START -->
-
-## Salve! 👋🏻 Sou o Paulo Salvatore :)
-
-<a href="https://github.com/paulosalvatore" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/paulosalvatoree" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/salvatorepaulo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
 ### Feliz de te ver aqui!
 
@@ -53,8 +53,6 @@ consegui [um pouquinho](https://github.com/nestjs/docs.nestjs.com/pulls?q=is%3Ap
 com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documentação haha.
 
 <!-- BIO:END -->
-
-<br/>
 
 <!-- SKILLSET:START -->
 
