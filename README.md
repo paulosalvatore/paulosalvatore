@@ -29,7 +29,7 @@
 ### Feliz de te ver aqui!
 
 👨🏼‍🏫 Sou professor diariamente e programador nas horas vagas, ou seria o contrário? Comecei a ~~programar~~ copiar
-e colar código aos 12 anos, criando os [meus próprios](https://github.com/paulosalvatore/maruim_server)
+e colar código aos ~12 anos, criando os [meus próprios](https://github.com/paulosalvatore/maruim_server)
 servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
 
 👨🏼‍💻 CTO aos 24, tive meu primeiro emprego como dev em dez/2016. Atuando como professor desde mar/2017, tô sempre em busca de compartilhar
