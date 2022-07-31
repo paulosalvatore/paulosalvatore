@@ -187,7 +187,7 @@ com o Nest, mas por enquanto só no projeto da documentação haha.
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-<img style="margin: 10px" src="lua.svg" alt="Lua" height="50" />
+<img style="margin: 10px" src="assets/lua.svg" alt="Lua" height="50" />
 </div>
 
 </td>
