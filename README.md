@@ -10,6 +10,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+
 ### 📺 Últimos vídeos no YouTube
 
 <!-- YOUTUBE:START -->
@@ -21,6 +22,7 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [mais vídeos...](https://youtube.com/PauloSalvatore)
+
 
 <!-- BIO:START -->
 
@@ -54,6 +56,7 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 
 <!-- BIO:END -->
 
+
 <!-- SKILLSET:START -->
 
 ## Tecnologias e Ferramentas
@@ -61,7 +64,7 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <table>
 
 <tr>
-<td align="center">
+<td align="center" width="50%" valign="top">
 
 ### Frontend
 
@@ -69,7 +72,7 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" title="TypeScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" height="50" />
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" title="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
@@ -80,26 +83,7 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" title="Webpack" height="50" />
 
 </td>
-<td align="center">
-
-### Backend
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" title="TypeScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" title="Prisma" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" title="Express.js" height="50" />
-<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
-<img style="margin: 10px" src="assets/serverless.svg" alt="Serverless" title="Serverless" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" title="Spring" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" title="XAMPP" height="50" />
-
-<tr>
-<td align="center">
+<td align="center" valign="top">
 
 ### Games
 
@@ -108,53 +92,53 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" title="Photoshop" height="50" />
 
 </td>
-<td align="center">
-
-### Mobile
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" title="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
-
-</td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" valign="top">
+
+### Backend
+
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" title="TypeScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" title="Prisma" height="50" />
+<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
+<img style="margin: 10px" src="assets/serverless.svg" alt="Serverless" title="Serverless" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" title="Spring" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" title="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" height="50" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" title="XAMPP" height="50" />
+
+</td>
+<td align="center" valign="top">
 
 ### Database
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" title="Maria DB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" height="50" />
+<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" title="Firebase" height="50" />
 <img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" />
-
-</td>
-<td align="center">
-
-### Hardware
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" title="Arduino" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" title="C++" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
-### AI
+### Mobile
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" title="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" title="Keras" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" title="OpenCV" height="50" />
+<img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" title="Java" height="50" />
+<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 ### Cloud & DevOps
 
@@ -172,44 +156,99 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" valign="top">
+
+### Hardware
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" title="Arduino" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" title="C++" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
+
+</td>
+<td align="center" valign="top">
+
+### AI
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" title="Python" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" title="Keras" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" title="OpenCV" height="50" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### Tools & IDEs
+
+<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
+<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
+<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-rider.svg" alt="Rider" title="Rider" height="50" />
+<img src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
+<br />
+<img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="50" />
+<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
+
+</td>
+<td align="center" valign="top">
 
 ### Started With
 
 <img style="margin: 10px" src="assets/lua.svg" alt="Lua" title="Lua" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" title="XAMPP" height="50" />
 
-</td>
-<td align="center">
 
 ### Want to learn
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" title="Rust" height="50" />
+<img style="margin: 10px" src="assets/solidity.svg" alt="Solidity" title="Solidity" height="50" />
+<img style="margin: 10px" src="assets/rust.svg" alt="Rust" title="Rust" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" title="GraphQL" height="50" />
 
 </td>
 </tr>
+
 </table>
 
 <br/>
 
 <!-- SKILLSET:END -->
 
+
+<!-- STATS:START -->
+
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" />
 </div>
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" />
 </div>
+
+<!-- STATS:END -->
 
 <br />
 
-<img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" align="center" />
+<!-- CONTRIBUTION:START -->
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=paulosalvatore&&style=flat-square" align="center" />
+    <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" alt="Contribution Graph" />
 </div>
+
+<!-- CONTRIBUTION:END -->
+
+
+<!-- VIEW-COUNT:START -->
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=paulosalvatore&&style=flat-square" />
+</div>
+
+<!-- VIEW-COUNT:END -->
