@@ -14,7 +14,7 @@
 
 <!-- BIO:START -->
 
-## Salve! Sou o Paulo Salvatore :)
+## Salve! 👋🏻 Sou o Paulo Salvatore :)
 
 <a href="https://github.com/paulosalvatore" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -28,8 +28,8 @@
 
 ### Feliz de te ver aqui!
 
-👨🏼‍🏫 Sou professor todos os dias e programador nas horas vagas, ou seria o contrário? Comecei a ~~programar~~ copiar
-e colar e código aos 12 anos de idade, criando [meus próprios](https://github.com/paulosalvatore/maruim_server)
+👨🏼‍🏫 Sou professor diariamente e programador nas horas vagas, ou seria o contrário? Comecei a ~~programar~~ copiar
+e colar código aos 12 anos, criando os [meus próprios](https://github.com/paulosalvatore/maruim_server)
 servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
 
 👨🏼‍💻 CTO aos 24, primeiro emprego como dev em dez/2016, professor desde mar/2017, tô sempre em busca de compartilhar
@@ -40,15 +40,15 @@ quase [finalizando](https://github.com/FabricaDeSinapse/livro-android-casa-do-co
 masterizar a criação de apps Android com Kotlin, introduzindo o universo
 do [DevMon](https://fabricadesinapse.github.io/DevMon/).
 
-🏫 Formado em Jogos Digitais pela FIAP, fiz uma pós em gestão estratégica de negócios, pra sair um pouco da zona de
+🏫 Formado em Jogos Digitais pela [FIAP](https://www.fiap.com.br/), onde também fiz um MBA em gestão estratégica de negócios, pra sair um pouco da zona de
 conforto tech. Colaborei em um [artigo científico](https://www.mdpi.com/2073-4441/13/9/1142) publicado na
 revista [Water](https://www.mdpi.com/), sobre usar realidade virtual no planejamento da mudança climática.
 
 🌎 Cofundei a [Virtual Planet](https://virtualplanet.tech/), startup localizada na Califórnia que utiliza tecnologias
 imersivas para comunicar melhor os problemas relacionados à mudança climática.
 
-🔮 Atualmente estou em busca de ampliar meus projetos de educação e adquirir novas experiências no mundo da programação.
-Meu sonho é conseguir commitar em alguns projetos de código aberto que sempre estão no meu dia a dia, já
+🔮 Atualmente estou em busca de ampliar os meus projetos de educação e adquirir novas experiências no mundo da programação.
+Meu sonho é conseguir commitar em alguns projetos de código aberto que estão sempre no meu dia a dia, já
 consegui [um pouquinho](https://github.com/nestjs/docs.nestjs.com/pulls?q=is%3Apr+is%3Aclosed+author%3Apaulosalvatore)
 com o Nest, mas por enquanto só no projeto da documentação haha.
 
@@ -63,11 +63,10 @@ com o Nest, mas por enquanto só no projeto da documentação haha.
 <table>
 
 <tr>
-<td width="50%" colspan="2">
+<td align="center">
 
 ### Frontend
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -80,17 +79,13 @@ com o Nest, mas por enquanto só no projeto da documentação haha.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-</div>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2">
+<td align="center">
 
 ### Backend
 
-<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
@@ -101,104 +96,87 @@ com o Nest, mas por enquanto só no projeto da documentação haha.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
-</div>
 
 <tr>
-<td width="50%">
+<td align="center">
 
 ### Games
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-</div>
 
 </td>
-<td width="50%">
+<td align="center">
 
 ### Mobile
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center">
 
 ### Database
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-</div>
 
 </td>
-<td width="50%">
+<td align="center">
 
 ### Hardware
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center">
 
 ### AI
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
-</div>
 
 </td>
-<td width="50%">
+<td align="center">
 
 ### Cloud & DevOps
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center">
 
 ### Started With
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
 <img style="margin: 10px" src="assets/lua.svg" alt="Lua" height="50" />
-</div>
 
 </td>
-<td width="50%">
+<td align="center">
 
 ### Want to learn
 
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
-</div>
 
 </td>
 </tr>
