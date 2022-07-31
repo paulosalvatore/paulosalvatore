@@ -87,7 +87,7 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 
 ### Games
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" title="Unity" height="50" /> 
+<img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" title="C#" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" title="Photoshop" height="50" />
 
