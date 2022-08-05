@@ -14,7 +14,7 @@
 ### 📺 Últimos vídeos no YouTube
 
 <!-- YOUTUBE:START -->
-- [Criando um projeto em TYPESCRIPT](https://www.youtube.com/watch?v=Fl8P9e9Nw88)
+- [TYPESCRIPT do ZERO](https://www.youtube.com/watch?v=Fl8P9e9Nw88)
 - [NODEJS na NUVEM em 100 segundos](https://www.youtube.com/watch?v=QmafNuP9e_8)
 - [BANCO DE DADOS na NUVEM em 100 segundos](https://www.youtube.com/watch?v=Z84HYnPf2TA)
 - [Carregando imagens no Android com Kotlin](https://www.youtube.com/watch?v=5FJLyFbTsZQ)
