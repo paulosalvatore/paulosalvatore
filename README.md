@@ -41,7 +41,7 @@ quase [finalizando](https://github.com/FabricaDeSinapse/livro-android-casa-do-co
 masterizar a criação de apps Android com Kotlin, introduzindo o universo
 do [DevMon](https://fabricadesinapse.github.io/DevMon/).
 
-🏫 Formado em Jogos Digitais pela [FIAP](https://www.fiap.com.br/), onde também fiz um MBA em gestão estratégica de negócios, pra sair um pouco da zona de
+🏫 Formado em Jogos Digitais pela FIAP, onde também fiz um MBA em gestão estratégica de negócios, pra sair um pouco da zona de
 conforto tech. Colaborei em um [artigo científico](https://www.mdpi.com/2073-4441/13/9/1142) publicado na
 revista [Water](https://www.mdpi.com/), sobre usar realidade virtual no planejamento da mudança climática.
 
