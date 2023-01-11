@@ -15,14 +15,16 @@
   </a>
 </div>
 
+<!--
 <div>
   <a href="https://youtube.com/paulosalvatore" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCbWFEr7zsKJ92Psrfam7W8Q" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCWo3M5LorRQsVikfbB647OA" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
   </a>
   <a href="https://youtube.com/paulosalvatore" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/views/UCbWFEr7zsKJ92Psrfam7W8Q" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/youtube/channel/views/UCWo3M5LorRQsVikfbB647OA" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
   </a>
 </div>
+-->
 
 <div>
   <a href="https://github.com/paulosalvatore" target="_blank">
