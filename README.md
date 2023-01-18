@@ -52,6 +52,7 @@
 
 <details open>
 <summary><small>EN-US</small></summary>
+
 👨🏼‍💻 Tech Lead at Samsung Ocean leading 15 developers to rebuild website & CMS, working with NodeJS, TypeScript, NestJS, ReactJS, ReactNative, and MySQL, completing a project at February-2023.
 
 🌎 Former CTO & Cofounder at Virtual Planet, a startup based in California that uses immersive tecnologies to better comunicate problems related to impacts of climate change.
@@ -59,6 +60,7 @@
 💻 More than 10 years of experience in software and game development. I've been teaching Virtual Reality (VR) and Artificial Intelligence (AI) for the past 5 years and have developed applications using AR SDKs, and applications for the Oculus Rift, Go and Quest.
 
 👨🏼‍🏫 I'm a professor at FIAP, a brazilian technology college, and at Samsung’s Ocean, teaching VR, AI, Android development, Games and Augmented Reality.
+
 </details>
 
 <details>
