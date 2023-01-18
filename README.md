@@ -63,6 +63,7 @@
 
 <details>
 <summary><small>PT-BR</small></summary>
+
 👨🏼‍🏫 Professor e desenvolvedor, comecei a ~~programar~~ copiar e colar código aos ~12 anos,
 criando os [meus próprios](https://github.com/paulosalvatore/maruim_server) servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
 
