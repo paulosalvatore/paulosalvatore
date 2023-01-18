@@ -246,13 +246,13 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <!-- STATS:START -->
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
 </div>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="My contributions" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
 </div>
 
 <!-- STATS:END -->
