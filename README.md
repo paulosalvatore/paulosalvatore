@@ -33,7 +33,7 @@
   </a>
 </div>
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
 - [TYPESCRIPT do ZERO](https://www.youtube.com/watch?v=Fl8P9e9Nw88)
