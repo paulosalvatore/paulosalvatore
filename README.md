@@ -36,11 +36,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [MIRO: conheça a ferramenta que você PRECISA usar no dia a dia](https://www.youtube.com/watch?v=zVnrOno1XTk)
 - [TYPESCRIPT do ZERO](https://www.youtube.com/watch?v=Fl8P9e9Nw88)
 - [NODEJS na NUVEM em 100 segundos](https://www.youtube.com/watch?v=QmafNuP9e_8)
 - [BANCO DE DADOS na NUVEM em 100 segundos](https://www.youtube.com/watch?v=Z84HYnPf2TA)
 - [Carregando imagens no Android com Kotlin](https://www.youtube.com/watch?v=5FJLyFbTsZQ)
-- [Entenda DevOps, CI e GITHUB ACTIONS de uma vez por todas](https://www.youtube.com/watch?v=W_Fhjmsq7hU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
