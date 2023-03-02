@@ -15,6 +15,7 @@
   </a>
 </div>
 
+<!--
 <div>
   <a href="https://youtube.com/paulosalvatore" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCbWFEr7zsKJ92Psrfam7W8Q" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
@@ -23,6 +24,7 @@
     <img src="https://img.shields.io/youtube/channel/views/UCbWFEr7zsKJ92Psrfam7W8Q" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
   </a>
 </div>
+-->
 
 <div>
   <a href="https://github.com/paulosalvatore" target="_blank">
@@ -98,8 +100,71 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 
 <!-- SKILLSET:START -->
 
-## Technologies & Tools
+## Technology Stack
 
+<table>
+
+<tr>
+<td align="center" width="36%" valign="top">
+
+### Frontend
+
+<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
+<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
+<img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
+
+</td>
+<td align="center" width="36%" valign="top">
+
+### Games
+
+<img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
+<img style="margin: 10px" src="assets/csharp.svg" alt="C#" title="C#" height="50" />
+
+</td>
+<td align="center" width="36%" valign="top">
+
+### Backend
+
+<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
+<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
+<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### Database
+
+<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
+<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
+
+</td>
+<td align="center" valign="top">
+
+### Mobile
+
+<img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
+<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
+
+</td>
+<td align="center" valign="top">
+
+### Cloud & DevOps
+
+<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
+<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
+<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
+
+</td>
+</tr>
+</table>
+
+
+<details>
+<summary><small>Technology Stack (full list)</small></summary>
 <table>
 
 <tr>
@@ -250,6 +315,7 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 </tr>
 
 </table>
+</details>
 
 <br/>
 
@@ -271,15 +337,6 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <!-- STATS:END -->
 
 <br />
-
-<!-- CONTRIBUTION:START -->
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" alt="Contribution Graph" />
-</div>
-
-<!-- CONTRIBUTION:END -->
-
 
 <!-- VIEW-COUNT:START -->
 
