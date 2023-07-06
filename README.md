@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [🤯](https://www.youtube.com/watch?v=lq6Jh1nPwn0)
 - [Lançamento Apple Vision Pro 🚀](https://www.youtube.com/watch?v=qrN32qdtKpY)
 - [MIRO: conheça a ferramenta que você PRECISA usar no dia a dia](https://www.youtube.com/watch?v=zVnrOno1XTk)
 - [TYPESCRIPT do ZERO](https://www.youtube.com/watch?v=Fl8P9e9Nw88)
 - [NODEJS na NUVEM em 100 segundos](https://www.youtube.com/watch?v=QmafNuP9e_8)
-- [BANCO DE DADOS na NUVEM em 100 segundos](https://www.youtube.com/watch?v=Z84HYnPf2TA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
