@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [🤖 #IA já chegou! Repensar aprendizado é necessário 🚀 #AI #EducaçãoDoFuturo 💪 🧠](https://www.youtube.com/watch?v=h_01zEzR7FI)
 - [Estratégia de Sobrevivência na era da IA e ChatGPT](https://www.youtube.com/watch?v=lhUsfu-46CM)
 - [🚀 Te encontro dia 26/07, 20h. Inscreva-se agora! 🚀 #MasterClass gratuita! 🧠  #IA e #prompts](https://www.youtube.com/watch?v=TMXLGZnv0J0)
 - [🤖  🎬 A aula completa #Midjourney V5.2 será lançada em breve!](https://www.youtube.com/watch?v=9w6mHlX6f3Y)
 - [Lançamento Apple Vision Pro 🚀](https://www.youtube.com/watch?v=qrN32qdtKpY)
-- [MIRO: conheça a ferramenta que você PRECISA usar no dia a dia](https://www.youtube.com/watch?v=zVnrOno1XTk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
