@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [MasterClass: &#39;O Mundo das IAs&#39;](https://www.youtube.com/watch?v=rrMQ7EaYSUQ)
 - [Dicas para REVOLUCIONAR o seu uso do ChatGPT](https://www.youtube.com/watch?v=4zACs19QE2s)
-- [Transmissão ao vivo de Paulo Salvatore](https://www.youtube.com/watch?v=4vSCQYXIiDE)
 - [🤖 #IA já chegou! Repensar aprendizado é necessário 🚀 #AI #EducaçãoDoFuturo 💪 🧠](https://www.youtube.com/watch?v=h_01zEzR7FI)
 - [Estratégia de Sobrevivência na era da IA e ChatGPT](https://www.youtube.com/watch?v=lhUsfu-46CM)
 - [🚀 Te encontro dia 26/07, 20h. Inscreva-se agora! 🚀 #MasterClass gratuita! 🧠  #IA e #prompts](https://www.youtube.com/watch?v=TMXLGZnv0J0)
