@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Dicas para REVOLUCIONAR o seu uso do ChatGPT](https://www.youtube.com/watch?v=4zACs19QE2s)
 - [Transmissão ao vivo de Paulo Salvatore](https://www.youtube.com/watch?v=4vSCQYXIiDE)
 - [🤖 #IA já chegou! Repensar aprendizado é necessário 🚀 #AI #EducaçãoDoFuturo 💪 🧠](https://www.youtube.com/watch?v=h_01zEzR7FI)
 - [Estratégia de Sobrevivência na era da IA e ChatGPT](https://www.youtube.com/watch?v=lhUsfu-46CM)
 - [🚀 Te encontro dia 26/07, 20h. Inscreva-se agora! 🚀 #MasterClass gratuita! 🧠  #IA e #prompts](https://www.youtube.com/watch?v=TMXLGZnv0J0)
-- [🤖  🎬 A aula completa #Midjourney V5.2 será lançada em breve!](https://www.youtube.com/watch?v=9w6mHlX6f3Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
