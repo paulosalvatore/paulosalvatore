@@ -42,7 +42,7 @@
 - [Dicas para REVOLUCIONAR o seu uso do ChatGPT](https://www.youtube.com/watch?v=4zACs19QE2s)
 - [🤖 #IA já chegou! Repensar aprendizado é necessário 🚀 #AI #EducaçãoDoFuturo 💪 🧠](https://www.youtube.com/watch?v=h_01zEzR7FI)
 - [Estratégia de Sobrevivência na era da IA e ChatGPT](https://www.youtube.com/watch?v=lhUsfu-46CM)
-- [🚀 Te encontro dia 26/07, 20h. Inscreva-se agora! 🚀 #MasterClass gratuita! 🧠  #IA e #prompts](https://www.youtube.com/watch?v=TMXLGZnv0J0)
+- [🚀 Te encontro dia 20/07, 20h. Inscreva-se agora! 🚀 #MasterClass gratuita! 🧠  #IA e #prompts](https://www.youtube.com/watch?v=TMXLGZnv0J0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
