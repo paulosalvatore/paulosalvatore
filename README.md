@@ -76,9 +76,8 @@ mar/2017, tô sempre em busca de compartilhar o conhecimento que adquiri ao long
 Atualmente leciono cursos gratuitos no [Samsung Ocean](https://oceanbrasil.com/) e faço parte da [FIAP](https://www.fiap.com.br/), na graduação
 de [Jogos Digitais](https://www.fiap.com.br/graduacao/tecnologo/jogos-digitais/) e no MBA de [Gestão da TI](https://www.fiap.com.br/mba/mba-em-gestao-da-tecnologia-da-informacao/).
 
-📙 Escritor na [casa do código](https://www.casadocodigo.com.br/),
-quase [finalizando](https://github.com/FabricaDeSinapse/livro-android-casa-do-codigo) o meu primeiro livro ensinando a
-masterizar a criação de apps Android com Kotlin, introduzindo o universo
+📙 Escritor na Casa do Código, do grupo Alura, onde [publiquei](https://github.com/FabricaDeSinapse/livro-android-casa-do-codigo) o meu primeiro
+livro simplificando técnicas avançadas para criar apps Android com Kotlin e MVVM, introduzindo o universo
 do [DevMon](https://fabricadesinapse.github.io/DevMon/).
 
 🏫 Formado em Jogos Digitais pela FIAP, onde também fiz um MBA em gestão estratégica de negócios, pra sair um pouco da zona de
