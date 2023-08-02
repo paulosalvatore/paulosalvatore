@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Por que é TÃO DIFERENTE? ChatGPT 3.5 vs 4.0](https://www.youtube.com/watch?v=Ru-1EpiVGVM)
 - [💻🤖 Prepare-se para o próximo sorteio.🏆🚀#ia #ai #chatgpt](https://www.youtube.com/watch?v=oyXNtJ8hSgo)
 - [💡Explorando nova função Custom Instructions do #ChatGPT Plus!🎯 #IA #SalvatoreAcademy](https://www.youtube.com/watch?v=Gapm6pzwbUc)
 - [NOVO RECURSO do ChatGPT: Instruções Personalizadas](https://www.youtube.com/watch?v=Lnc9SI-WORY)
 - [MasterClass: &#39;O Mundo das IAs&#39;](https://www.youtube.com/watch?v=rrMQ7EaYSUQ)
-- [Dicas para REVOLUCIONAR o seu uso do ChatGPT](https://www.youtube.com/watch?v=4zACs19QE2s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
