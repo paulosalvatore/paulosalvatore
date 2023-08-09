@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Curso gratuito ao vivo e lançamento do livro | Agosto na Salvatore.Academy](https://www.youtube.com/watch?v=y23ftgORGpA)
 - [🎬&#39;#Her&#39; já faz parte da sua lista de #filmes? 🤖 Divida sua opinião sobre a relação humano-IA.](https://www.youtube.com/watch?v=r3Dla_mLlN4)
 - [Por que é TÃO DIFERENTE? ChatGPT 3.5 vs 4.0](https://www.youtube.com/watch?v=Ru-1EpiVGVM)
 - [💻🤖 Prepare-se para o próximo sorteio.🏆🚀#ia #ai #chatgpt](https://www.youtube.com/watch?v=oyXNtJ8hSgo)
 - [💡Explorando nova função Custom Instructions do #ChatGPT Plus!🎯 #IA #SalvatoreAcademy](https://www.youtube.com/watch?v=Gapm6pzwbUc)
-- [NOVO RECURSO do ChatGPT: Instruções Personalizadas](https://www.youtube.com/watch?v=Lnc9SI-WORY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
