@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Live de Lançamento do Livro: Android nativo com Kotlin e MVVM, pela Casa do Código](https://www.youtube.com/watch?v=yvf4olfvnIg)
 - [Profissão Dev Android Nativo](https://www.youtube.com/watch?v=nZPh3SLhXLM)
 - [Curso ANDROID GRATUITO e LANÇAMENTO do livro | Agosto/2023 na Salvatore.Academy](https://www.youtube.com/watch?v=y23ftgORGpA)
 - [🎬&#39;#Her&#39; já faz parte da sua lista de #filmes? 🤖 Divida sua opinião sobre a relação humano-IA.](https://www.youtube.com/watch?v=r3Dla_mLlN4)
 - [Por que é TÃO DIFERENTE? ChatGPT 3.5 vs 4.0](https://www.youtube.com/watch?v=Ru-1EpiVGVM)
-- [💻🤖 Prepare-se para o próximo sorteio.🏆🚀#ia #ai #chatgpt](https://www.youtube.com/watch?v=oyXNtJ8hSgo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
