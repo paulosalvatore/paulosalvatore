@@ -55,39 +55,40 @@
 <details open>
 <summary><small>EN-US</small></summary>
 
-👨🏼‍💻 Tech Lead at Samsung Ocean leading 15 developers to rebuild website & CMS, working with NodeJS, TypeScript, NestJS, ReactJS, ReactNative, and MySQL, completing a project at February-2023.
+👨🏻‍🏫 Professor and CEO at Salvatore.Academy, revolutionizing tech education through gamified, real-world experiences.
 
-🌎 Former CTO & Cofounder at Virtual Planet, a startup based in California that uses immersive tecnologies to better comunicate problems related to impacts of climate change.
+🌎 Former CTO & Co-founder at Virtual Planet, a California-based startup focused on climate change through immersive tech.
 
-💻 More than 10 years of experience in software and game development. I've been teaching Virtual Reality (VR) and Artificial Intelligence (AI) for the past 5 years and have developed applications using AR SDKs, and applications for the Oculus Rift, Go and Quest.
+💻 10+ years in software & game dev. Specialized in VR, AI, and AR. Developed for Oculus Rift, Go, and Quest.
 
-👨🏼‍🏫 I'm a professor at FIAP, a brazilian technology college, and at Samsung’s Ocean, teaching VR, AI, Android development, Games and Augmented Reality.
+📚 Faculty at FIAP and Samsung’s Ocean, teaching VR, AI, Android dev, Games, and AR.
+
+🌐 Active on GitHub with an international profile, contributing to open-source projects and tech innovation.
 
 </details>
 
 <details>
 <summary><small>PT-BR</small></summary>
 
-👨🏼‍🏫 Professor e desenvolvedor, comecei a ~~programar~~ copiar e colar código aos ~12 anos,
+👨🏻‍🏫 Professor e desenvolvedor, comecei a ~~programar~~ copiar e colar código aos ~12 anos,
 criando os [meus próprios](https://github.com/paulosalvatore/maruim_server) servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
 
-👨🏼‍💻 Iniciei a faculdade aos 22, tive o meu primeiro emprego como dev aos 23, em dez/2016, e me tornei CTO aos 24. Atuando como professor desde
-mar/2017, tô sempre em busca de compartilhar o conhecimento que adquiri ao longo dessa [jornada](https://www.linkedin.com/in/salvatorepaulo/details/experience/).
-Atualmente leciono cursos gratuitos no [Samsung Ocean](https://oceanbrasil.com/) e faço parte da [FIAP](https://www.fiap.com.br/), na graduação
+🧑🏻‍💻 Iniciei a faculdade em 2016, aos 22, tive o meu primeiro emprego como dev aos 23, e me tornei CTO aos 24. Atuando como professor desde
+2017, estou sempre em busca de compartilhar o conhecimento que adquiri ao longo dessa [jornada](https://www.linkedin.com/in/salvatorepaulo/details/experience/).
+Atualmente sou professor e CEO da [Salvatore.Academy](https://salvatore.academy/), uma escola de tecnologia que ensina a criar sites, apps ou games. Também atuo no [Samsung Ocean](https://oceanbrasil.com/) e faço parte da [FIAP](https://www.fiap.com.br/), na graduação
 de [Jogos Digitais](https://www.fiap.com.br/graduacao/tecnologo/jogos-digitais/) e no MBA de [Gestão da TI](https://www.fiap.com.br/mba/mba-em-gestao-da-tecnologia-da-informacao/).
 
-📙 Escritor na Casa do Código, do grupo Alura, onde [publiquei](https://github.com/FabricaDeSinapse/livro-android-casa-do-codigo) o meu primeiro
-livro simplificando técnicas avançadas para criar apps Android com Kotlin e MVVM, introduzindo o universo
+📙 Escritor na Casa do Código, onde [publiquei](https://www.casadocodigo.com.br/products/livro-android-nativo) o meu primeiro
+livro "Android nativo com Kotlin e MVVM: Simplificando técnicas avançadas", introduzindo o universo
 do [DevMon](https://fabricadesinapse.github.io/DevMon/).
 
-🏫 Formado em Jogos Digitais pela FIAP, onde também fiz um MBA em gestão estratégica de negócios, pra sair um pouco da zona de
-conforto tech. Colaborei em um [artigo científico](https://www.mdpi.com/2073-4441/13/9/1142) publicado na
-revista [Water](https://www.mdpi.com/), sobre usar realidade virtual no planejamento da mudança climática.
+🏫 MBA em gestão estratégica de negócios e Graduação em  Digitais pela FIAP. Colaborei em um [artigo científico](https://www.mdpi.com/2073-4441/13/9/1142)
+publicado na revista [Water](https://www.mdpi.com/), sobre usar realidade virtual no planejamento da mudança climática.
 
-🌎 Em 2018, cofundei a [Virtual Planet](https://virtualplanet.tech/), startup localizada na Califórnia que utiliza tecnologias
+🌎 Em 2018, cofundei e me tornei CTO da [Virtual Planet](https://virtualplanet.tech/), startup localizada na Califórnia que utiliza tecnologias
 imersivas como realidade virtual para comunicar melhor os problemas relacionados à mudança climática.
 
-🔮 Atualmente estou em busca de ampliar os meus projetos de educação e adquirir novas experiências no mundo da programação.
+🔮 Atualmente estou em busca de ampliar os meus [projetos de educação](https://salvatore.academy) e adquirir novas experiências no mundo da programação.
 Meu sonho é conseguir commitar em alguns projetos de código aberto que estão sempre no meu dia a dia, já
 consegui [um pouquinho](https://github.com/nestjs/docs.nestjs.com/pulls?q=is%3Apr+is%3Aclosed+author%3Apaulosalvatore)
 com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documentação haha.
