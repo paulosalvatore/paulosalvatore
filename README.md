@@ -38,10 +38,10 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Live de Lançamento do Livro: Android nativo com Kotlin e MVVM, pela Casa do Código](https://www.youtube.com/watch?v=yvf4olfvnIg)
 - [📚 Hoje, 20h, estarei ao vivo aqui no YouTube para falar sobre o meu livro! #android #kotlin #mvvm](https://www.youtube.com/watch?v=rzosN2V66Gw)
 - [CURSO GRATUITO | Iniciante na profissão Dev Android Nativo](https://www.youtube.com/watch?v=ymy9FMRrRrU)
 - [🚨 Dia 29/08, às 20h!  Lançamento do livro &#39;Android com Kotlin &amp; MVVM&#39;.](https://www.youtube.com/watch?v=1vg9ICmfz5A)
-- [Live de Lançamento do Livro: Android nativo com Kotlin e MVVM, pela Casa do Código](https://www.youtube.com/watch?v=yvf4olfvnIg)
 - [Profissão Dev Android Nativo](https://www.youtube.com/watch?v=nZPh3SLhXLM)
 <!-- YOUTUBE:END -->
 
