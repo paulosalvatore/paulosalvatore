@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Não percam nos dias 17, 18 e 19/10, 18h às 19h30. A &quot;Semana de Back-End e JavaScript&quot;](https://www.youtube.com/watch?v=G7BBPjmxvpg)
 - [Semana de Backend JavaScript: Dia 3](https://www.youtube.com/watch?v=a-SEYaRS4w8)
 - [Semana de Backend JavaScript: Dia 2](https://www.youtube.com/watch?v=2G64PMOfxyY)
 - [Semana de Backend JavaScript: Dia 1](https://www.youtube.com/watch?v=lFxh2rKL6oY)
 - [CURSO GRATUITO | Primeiro App Mobile | Iniciante na profissão Dev Android Nativo](https://www.youtube.com/watch?v=fQNXoPhz8pY)
-- [Qual o SEGREDO pra virar DEV? | Podcast Salvatore Academy](https://www.youtube.com/watch?v=PHiQH4ncXc4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
