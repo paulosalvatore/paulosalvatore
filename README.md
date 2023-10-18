@@ -39,7 +39,7 @@
 
 <!-- YOUTUBE:START -->
 - [Semana de Backend JavaScript: Dia 1](https://www.youtube.com/watch?v=lFxh2rKL6oY)
-- [Anúncio Evento GRATUITO: Semana Backend da Salvatore Academy](https://www.youtube.com/watch?v=KPVN4V9-xLE)
+- [Semana Backend JavaScript da Salvatore Academy](https://www.youtube.com/watch?v=KPVN4V9-xLE)
 - [Venha comecar do ZERO! 🤝  #backend #javascript #backenddeveloper](https://www.youtube.com/watch?v=jya6MOD9_Jw)
 - [Contagem regressiva ...  Você não pode acreditar no que te espera!  ✨ #backend #javascript](https://www.youtube.com/watch?v=aBN5ao0BY7g)
 - [🫵 Crie a sua experiência! #podcast  #tecnologia #programming](https://www.youtube.com/watch?v=Y0vYsRQSXW4)
