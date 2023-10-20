@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Semana de Backend JavaScript: Dia 3](https://www.youtube.com/watch?v=a-SEYaRS4w8)
 - [Semana de Backend JavaScript: Dia 2](https://www.youtube.com/watch?v=2G64PMOfxyY)
 - [Semana de Backend JavaScript: Dia 1](https://www.youtube.com/watch?v=lFxh2rKL6oY)
 - [Semana Backend JavaScript da Salvatore Academy](https://www.youtube.com/watch?v=KPVN4V9-xLE)
 - [Venha comecar do ZERO! 🤝  #backend #javascript #backenddeveloper](https://www.youtube.com/watch?v=jya6MOD9_Jw)
-- [Contagem regressiva ...  Você não pode acreditar no que te espera!  ✨ #backend #javascript](https://www.youtube.com/watch?v=aBN5ao0BY7g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
