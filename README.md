@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Anúncio: Lives no Canal e Plataforma de Ensino Salvatore Academy](https://www.youtube.com/watch?v=MTav-43O9SI)
+- [Live Salvatore Academy: Dev Backend JavaScript](https://www.youtube.com/watch?v=b4JY2MunZkk)
 - [CURSO GRATUITO | Estágio na profissão Dev Android Nativo](https://www.youtube.com/watch?v=IJ5snoXiLNQ)
 - [O melhor dia para entrar na área de desenvolvimento tecnologia! 🚀 #dev #technology](https://www.youtube.com/watch?v=mBfdjmGnFAs)
 - [Semana Backend JavaScript da Salvatore Academy](https://www.youtube.com/watch?v=KPVN4V9-xLE)
-- [Venha comecar do ZERO! 🤝  #backend #javascript #backenddeveloper](https://www.youtube.com/watch?v=jya6MOD9_Jw)
-- [Contagem regressiva ...  Você não pode acreditar no que te espera!  ✨ #backend #javascript](https://www.youtube.com/watch?v=aBN5ao0BY7g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
