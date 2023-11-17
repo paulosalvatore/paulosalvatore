@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [CURSO GRATUITO | Feedback e Interface de Usuário | Estágio na profissão Dev Android Nativo](https://www.youtube.com/watch?v=HJn17WQl5O8)
 - [Live Salvatore Academy: Dev Frontend JavaScript](https://www.youtube.com/watch?v=-URe73l8KPo)
 - [⚡️Rápido, prático, eficaz. Aprenda programação com  #SalvatoreAcademy e acelere sua carreira.](https://www.youtube.com/watch?v=xFI2CQ2ImB8)
 - [Live Salvatore Academy: Dev Android Nativo](https://www.youtube.com/watch?v=EMiRditT-g8)
 - [Live Salvatore Academy: Dev Games](https://www.youtube.com/watch?v=-21gQgvTuik)
-- [LIVES SEMANAIS DE VOLTA! 🎉](https://www.youtube.com/watch?v=WTejZPo2KZM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
