@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [🫵 O primeiro passo? Facilitamos para você! Cursos para iniciantes que transformaram o seu futuro. 🧠](https://www.youtube.com/watch?v=zdKo1oHlXfs)
 - [✨ Sua carreira em programação começa aqui! Aprenda e conecte-se diretamente com o cargo que almeja!](https://www.youtube.com/watch?v=pBhfv3g66mQ)
 - [Live Salvatore Academy: Dev Games](https://www.youtube.com/watch?v=-21gQgvTuik)
 - [🪄 Um toque de mágica na sua jornada de programação? A Salvatore Academy é a varinha mágica! ✨](https://www.youtube.com/watch?v=PHHjGcGcWC8)
 - [🚀 Ideal para quem busca conhecimento técnico sem complicações. Dê um play! #framework #express](https://www.youtube.com/watch?v=wKprcITsQgA)
-- [CURSO GRATUITO | Feedback e Interface de Usuário | Estágio na profissão Dev Android Nativo](https://www.youtube.com/watch?v=HJn17WQl5O8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
