@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [🚀 Rápido lembrete: Um bom #portfolio  é essencial! E o #GitHub é perfeito para isso!](https://www.youtube.com/watch?v=wxSFd86CfhQ)
 - [Live Salvatore Academy: Dev Android Nativo](https://www.youtube.com/watch?v=EMiRditT-g8)
 - [🚀 Primeira vez no Tech? Confira um trecho do nosso Podcast! #podcast #comunidadedev](https://www.youtube.com/watch?v=XLVCf-TunEE)
 - [🫵 O primeiro passo? Facilitamos para você! Cursos para iniciantes que transformaram o seu futuro. 🧠](https://www.youtube.com/watch?v=zdKo1oHlXfs)
 - [✨ Sua carreira em programação começa aqui! Aprenda e conecte-se diretamente com o cargo que almeja!](https://www.youtube.com/watch?v=pBhfv3g66mQ)
-- [Live Salvatore Academy: Dev Games](https://www.youtube.com/watch?v=-21gQgvTuik)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
