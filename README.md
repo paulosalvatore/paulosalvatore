@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Dev Cast #2: Novidades no JavaScript 2024 | Salvatore Academy](https://www.youtube.com/watch?v=U_4n7G6rKcc)
 - [Dev Cast #1: Tendências 2025 em Tecnologia e Desenvolvimento | Salvatore Academy](https://www.youtube.com/watch?v=40Ejx6VsFmw)
 - [Sua bagagem é sua maior aliada, transforme oportunidades em sabedoria, e sabedoria em sucesso!](https://www.youtube.com/watch?v=apGgnPX-nHE)
 - [🚀 Rápido lembrete: Um bom #portfolio  é essencial! E o #GitHub é perfeito para isso!](https://www.youtube.com/watch?v=wxSFd86CfhQ)
 - [Live Salvatore Academy: Dev Android Nativo](https://www.youtube.com/watch?v=EMiRditT-g8)
-- [🚀 Primeira vez no Tech? Confira um trecho do nosso Podcast! #podcast #comunidadedev](https://www.youtube.com/watch?v=XLVCf-TunEE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
