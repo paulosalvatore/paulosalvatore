@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Dev Cast #4: Soft Skills que Fazem a Diferença | Salvatore Academy](https://www.youtube.com/watch?v=CrzlJphyDME)
 - [Dev Cast #3: Carreira em Tecnologia: Dicas para Crescimento Profissional | Salvatore Academy](https://www.youtube.com/watch?v=fJv3jbtvjYE)
 - [Dev Cast #2: Novidades no JavaScript 2024 | Salvatore Academy](https://www.youtube.com/watch?v=U_4n7G6rKcc)
 - [Dev Cast #1: Tendências 2025 em Tecnologia e Desenvolvimento | Salvatore Academy](https://www.youtube.com/watch?v=40Ejx6VsFmw)
 - [Sua bagagem é sua maior aliada, transforme oportunidades em sabedoria, e sabedoria em sucesso!](https://www.youtube.com/watch?v=apGgnPX-nHE)
-- [🚀 Rápido lembrete: Um bom #portfolio  é essencial! E o #GitHub é perfeito para isso!](https://www.youtube.com/watch?v=wxSFd86CfhQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
