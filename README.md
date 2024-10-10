@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [Dev Cast #5: Ferramentas Essenciais para Devs Web | Salvatore Academy](https://www.youtube.com/watch?v=QbLod6hIexc)
-- [Dev Cast #4: Soft Skills que Fazem a Diferença | Salvatore Academy](https://www.youtube.com/watch?v=CrzlJphyDME)
-- [Dev Cast #3: Carreira em Tecnologia: Dicas para Crescimento Profissional | Salvatore Academy](https://www.youtube.com/watch?v=fJv3jbtvjYE)
-- [Dev Cast #2: Novidades no JavaScript 2024 | Salvatore Academy](https://www.youtube.com/watch?v=U_4n7G6rKcc)
-- [Dev Cast #1: Tendências 2025 em Tecnologia e Desenvolvimento | Salvatore Academy](https://www.youtube.com/watch?v=40Ejx6VsFmw)
+- [Dev Cast #12: Networking Estratégico em Tecnologia | Salvatore Academy](https://www.youtube.com/watch?v=V3U-PHPZLEQ)
+- [Dev Cast #11: Boas Práticas no Desenvolvimento com JavaScript | Salvatore Academy](https://www.youtube.com/watch?v=6hv81URuaMU)
+- [Dev Cast #10: Design para Desenvolvedores: Colaboração Efetiva com Designers | Salvatore Academy](https://www.youtube.com/watch?v=Ugp-BxOr8FM)
+- [Dev Cast #9: Equilíbrio entre Vida Profissional e Pessoal | Salvatore Academy](https://www.youtube.com/watch?v=kvDxuVe0BE8)
+- [Dev Cast #8: Preparação para Processos Seletivos em Tecnologia | Salvatore Academy](https://www.youtube.com/watch?v=d6rborl06KY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
