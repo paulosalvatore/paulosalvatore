@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Dev Cast #6, part. Gabriel Galdino: Participando de Comunidades Tech](https://www.youtube.com/watch?v=w2dwaTDiHIo)
 - [Dev Cast #5: Ferramentas Essenciais para Devs Web | Salvatore Academy](https://www.youtube.com/watch?v=QbLod6hIexc)
 - [Dev Cast #12: Networking Estratégico em Tecnologia | Salvatore Academy](https://www.youtube.com/watch?v=V3U-PHPZLEQ)
 - [Dev Cast #11: Boas Práticas no Desenvolvimento com JavaScript | Salvatore Academy](https://www.youtube.com/watch?v=6hv81URuaMU)
 - [Dev Cast #10: Design para Desenvolvedores: Colaboração Efetiva com Designers | Salvatore Academy](https://www.youtube.com/watch?v=Ugp-BxOr8FM)
-- [Dev Cast #9: Equilíbrio entre Vida Profissional e Pessoal | Salvatore Academy](https://www.youtube.com/watch?v=kvDxuVe0BE8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
