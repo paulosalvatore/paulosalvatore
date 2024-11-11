@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [Dev Cast #8: Preparação para Processos Seletivos em Tecnologia | Salvatore Academy](https://www.youtube.com/watch?v=d6rborl06KY)
-- [Dev Cast #7: Histórias Inspiradoras: Trajetórias de Sucesso na Tecnologia | Salvatore Academy](https://www.youtube.com/watch?v=J_F8BGT1gyQ)
+- [Dev Cast #8, part. Marcelo Bressan: Processos Seletivos em Tecnologia](https://www.youtube.com/watch?v=d6rborl06KY)
+- [Dev Cast #7, part. Pablo Rodrigues: Histórias Inspiradoras - Trajetórias de Sucesso na Tecnologia](https://www.youtube.com/watch?v=J_F8BGT1gyQ)
 - [Dev Cast #6, part. Gabriel Galdino: Participando de Comunidades Tech](https://www.youtube.com/watch?v=w2dwaTDiHIo)
 - [Dev Cast #5: Ferramentas Essenciais para Devs Web | Salvatore Academy](https://www.youtube.com/watch?v=QbLod6hIexc)
 - [Dev Cast #14: O Mercado de Tecnologia no Brasil: Desafios e Oportunidades | Salvatore Academy](https://www.youtube.com/watch?v=zsoBjJh0-zk)
