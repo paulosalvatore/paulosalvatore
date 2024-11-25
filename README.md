@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Backend Intermediário com TypeScript e Nest: Criação do Projeto](https://www.youtube.com/watch?v=KwX5T-7CHR4)
 - [DevCast #10: Design para Desenvolvedores: Colaboração Efetiva com Designers](https://www.youtube.com/watch?v=5uEVUapf1M4)
 - [IA para Humanos: IA no Cotidiano e Ferramentas Práticas](https://www.youtube.com/watch?v=yAXc7IZNeUA)
 - [Dev Cast #9: Equilíbrio entre Vida Profissional e Pessoal](https://www.youtube.com/watch?v=kvDxuVe0BE8)
 - [Dev Cast #8, part. Marcelo Bressan: Processos Seletivos em Tecnologia](https://www.youtube.com/watch?v=d6rborl06KY)
-- [Dev Cast #7, part. Pablo Rodrigues: Histórias Inspiradoras - Trajetórias de Sucesso na Tecnologia](https://www.youtube.com/watch?v=J_F8BGT1gyQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
