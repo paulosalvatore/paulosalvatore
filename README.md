@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [DevCast #13: A Importância da Aprendizagem Contínua](https://www.youtube.com/watch?v=D5DHUlLsyAw)
 - [DevCast #12: Networking Estratégico em Tecnologia](https://www.youtube.com/watch?v=UlsUG8oO3q0)
 - [DevCast #11: Boas Práticas no Desenvolvimento com JavaScript](https://www.youtube.com/watch?v=uezuOw0lQr0)
 - [Backend Intermediário com TypeScript e Nest: Criação do Projeto](https://www.youtube.com/watch?v=KwX5T-7CHR4)
 - [DevCast #10: Design para Desenvolvedores: Colaboração Efetiva com Designers](https://www.youtube.com/watch?v=5uEVUapf1M4)
-- [IA para Humanos: IA no Cotidiano e Ferramentas Práticas](https://www.youtube.com/watch?v=yAXc7IZNeUA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
