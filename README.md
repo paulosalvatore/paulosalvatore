@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [DevCast #16, part. Fernando Morganti: Dev Mobile em Alta: Android e Kotlin](https://www.youtube.com/watch?v=rmpibvbO1Js)
 - [DevCast #15, part. Marcelo Bressan: Início de Ano para Devs: O Que Esperar de 2025?](https://www.youtube.com/watch?v=8VIEz3Qv8sU)
 - [DevCast #14: O Mercado de Tecnologia no Brasil: Desafios e Oportunidades](https://www.youtube.com/watch?v=8VSol_dYWDc)
 - [DevCast #13: A Importância da Aprendizagem Contínua](https://www.youtube.com/watch?v=D5DHUlLsyAw)
 - [DevCast #12: Networking Estratégico em Tecnologia](https://www.youtube.com/watch?v=UlsUG8oO3q0)
-- [DevCast #11: Boas Práticas no Desenvolvimento com JavaScript](https://www.youtube.com/watch?v=uezuOw0lQr0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
