@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Italo José e Ana Carolina: Nômade Digital: Tecnologia Abre Fronteiras | DevCast #17](https://www.youtube.com/watch?v=0FjBQMyUBPI)
 - [Adapte-se à tecnologia, mas nunca perca de vista o que realmente importa: as pessoas💡](https://www.youtube.com/watch?v=OTbl_lMJFYs)
 - [Conversar e se conectar é essencial!  #SalvatoreAcademy #Programação](https://www.youtube.com/watch?v=Qp9rDAhebr8)
 - [DevCast #16, part. Fernando Morganti: Dev Mobile em Alta: Android e Kotlin](https://www.youtube.com/watch?v=rmpibvbO1Js)
 - [DevCast #15, part. Marcelo Bressan: Início de Ano para Devs: O Que Esperar de 2025?](https://www.youtube.com/watch?v=8VIEz3Qv8sU)
-- [DevCast #14: O Mercado de Tecnologia no Brasil: Desafios e Oportunidades](https://www.youtube.com/watch?v=8VSol_dYWDc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
