@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [A Inteligência Artificial pode facilitar sua rotina e otimizar seu tempo! #SalvatoreAcademy](https://www.youtube.com/watch?v=kKMxtIgbOXA)
 - [Thiago Coser: Game Dev: Criando Seu Primeiro Jogo do Zero | DevCast #18](https://www.youtube.com/watch?v=ZJqyAXdQAA4)
 - [A constância é a chave para transformar o esforço em oportunidade, continue 🚀#SalvatoreAcademy](https://www.youtube.com/watch?v=F-wzuuFjuIA)
 - [Salvatore Academy está trazendo ainda mais visibilidade para você 🚀#SalvatoreAcademy #Programação](https://www.youtube.com/watch?v=uxVGP-NA7uI)
 - [Italo José e Ana Carolina: Nômade Digital: Tecnologia Abre Fronteiras | DevCast #17](https://www.youtube.com/watch?v=0FjBQMyUBPI)
-- [Adapte-se à tecnologia, mas nunca perca de vista o que realmente importa: as pessoas💡](https://www.youtube.com/watch?v=OTbl_lMJFYs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
