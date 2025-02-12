@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Hoje, as comunidades estão mais acessíveis do que nunca! #salvatoreacademy](https://www.youtube.com/watch?v=06BeyOf2NgE)
 - [Bruno Carvalho e Thiago Cóser: Game Dev – Código, Design e Storytelling | DevCast #19](https://www.youtube.com/watch?v=mEzoQh059H4)
 - [A Inteligência Artificial pode facilitar sua rotina e otimizar seu tempo! #SalvatoreAcademy](https://www.youtube.com/watch?v=kKMxtIgbOXA)
 - [Thiago Coser: Game Dev: Criando Seu Primeiro Jogo do Zero | DevCast #18](https://www.youtube.com/watch?v=ZJqyAXdQAA4)
 - [A constância é a chave para transformar o esforço em oportunidade, continue 🚀#SalvatoreAcademy](https://www.youtube.com/watch?v=F-wzuuFjuIA)
-- [Salvatore Academy está trazendo ainda mais visibilidade para você 🚀#SalvatoreAcademy #Programação](https://www.youtube.com/watch?v=uxVGP-NA7uI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
