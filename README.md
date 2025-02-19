@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [As comunidades fortalecem conexões! #salvatoreacademy #devcast](https://www.youtube.com/watch?v=Dx0OYSeP2Aw)
 - [Jennyfer Lamego: Mulheres na Tecnologia: Desafios e Crescimento | DevCast #20](https://www.youtube.com/watch?v=CGxyJ9ITt_I)
 - [A IA já faz parte do nosso dia a dia há muitos anos!  #SalvatoreAcademy #DevCast #IA](https://www.youtube.com/watch?v=9_4R-_N70_U)
 - [Hoje, as comunidades estão mais acessíveis do que nunca! #salvatoreacademy](https://www.youtube.com/watch?v=06BeyOf2NgE)
 - [Bruno Carvalho e Thiago Cóser: Game Dev – Código, Design e Storytelling | DevCast #19](https://www.youtube.com/watch?v=mEzoQh059H4)
-- [A Inteligência Artificial pode facilitar sua rotina e otimizar seu tempo! #SalvatoreAcademy](https://www.youtube.com/watch?v=kKMxtIgbOXA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
