@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Leonardo Orabona: Hackers, Ataques e Defesa: O Jogo da Cibersegurança | DevCast #22](https://www.youtube.com/watch?v=RoFMBxYjj0M)
 - [Você já sentiu que seu trabalho definia quem você era? #salvatoreacademy](https://www.youtube.com/watch?v=_tjx46rJnDQ)
 - [Matheus Morett: Crescimento na Carreira: FullStack é o Caminho? | DevCast #21](https://www.youtube.com/watch?v=QSy8eZ_Qu0E)
 - [As comunidades fortalecem conexões! #salvatoreacademy #devcast](https://www.youtube.com/watch?v=Dx0OYSeP2Aw)
 - [Jennyfer Lamego: Mulheres na Tecnologia: Desafios e Crescimento | DevCast #20](https://www.youtube.com/watch?v=CGxyJ9ITt_I)
-- [A IA já faz parte do nosso dia a dia há muitos anos!  #SalvatoreAcademy #DevCast #IA](https://www.youtube.com/watch?v=9_4R-_N70_U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
