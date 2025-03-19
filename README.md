@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [Saiba mais em nosso site! #salvatoreacademy #frontend #backend](https://www.youtube.com/watch?v=lelZXNLowEI)
 - [Wellington Almeida: Frontend e Mercado Global: Mitos/Realidade | DevCast #24](https://www.youtube.com/watch?v=csKytdli2qA)
+- [Saiba mais em nosso site! #salvatoreacademy #frontend #backend](https://www.youtube.com/watch?v=lelZXNLowEI)
 - [Flavio Mayerhofer: Realidade Virtual em 2025: Para Onde Vamos? | DevCast #23](https://www.youtube.com/watch?v=5zbq8xnyNX0)
 - [Mãe e dev: como equilibrar tudo? Os desafios são muitos, mas é possível! #salvatoreacademy  #podcast](https://www.youtube.com/watch?v=ql4WHDWPVeY)
 - [Leonardo Orabona: Hackers, Ataques e Defesa: O Jogo da Cibersegurança | DevCast #22](https://www.youtube.com/watch?v=RoFMBxYjj0M)
