@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Gabryel Silva: ERP, CRM e IA: O Futuro das Grandes Empresas | DevCast #25](https://www.youtube.com/watch?v=7r4d0nDzFFs)
 - [A incrível Jennyfer Lamego compartilhou conosco sua trajetória inspiradora! #salvatoreacademy](https://www.youtube.com/watch?v=NYG3jPD9Mpo)
 - [Wellington Almeida: Frontend e Mercado Global: Mitos/Realidade | DevCast #24](https://www.youtube.com/watch?v=csKytdli2qA)
 - [Saiba mais em nosso site! #salvatoreacademy #frontend #backend](https://www.youtube.com/watch?v=lelZXNLowEI)
 - [Flavio Mayerhofer: Realidade Virtual em 2025: Para Onde Vamos? | DevCast #23](https://www.youtube.com/watch?v=5zbq8xnyNX0)
-- [Mãe e dev: como equilibrar tudo? Os desafios são muitos, mas é possível! #salvatoreacademy  #podcast](https://www.youtube.com/watch?v=ql4WHDWPVeY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
