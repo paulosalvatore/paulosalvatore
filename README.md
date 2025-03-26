@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [A jornada pode ser desafiadora e longa, mas é possível chegar lá!](https://www.youtube.com/watch?v=vAQjYfR-bJc)
 - [Gabryel Silva: ERP, CRM e IA: O Futuro das Grandes Empresas | DevCast #25](https://www.youtube.com/watch?v=7r4d0nDzFFs)
 - [Testes Automatizados no Frontend com React.js, Next.js e TypeScript](https://www.youtube.com/watch?v=j4qx0ITDOVE)
 - [A incrível Jennyfer Lamego compartilhou conosco sua trajetória inspiradora! #salvatoreacademy](https://www.youtube.com/watch?v=NYG3jPD9Mpo)
 - [Wellington Almeida: Frontend e Mercado Global: Mitos/Realidade | DevCast #24](https://www.youtube.com/watch?v=csKytdli2qA)
-- [Saiba mais em nosso site! #salvatoreacademy #frontend #backend](https://www.youtube.com/watch?v=lelZXNLowEI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
