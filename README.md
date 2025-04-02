@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Daniel Risi: Design Centrado em Pessoas: Cabe IA Nessa Equação? #DevCast27](https://www.youtube.com/watch?v=chzU1l1uCAs)
 - [Davi Lemos: IA e Consciência: Estamos Criando Sabedoria ou Ruína? #DevCast26](https://www.youtube.com/watch?v=GsqDiCGZah0)
 - [A jornada pode ser desafiadora e longa, mas é possível chegar lá!](https://www.youtube.com/watch?v=vAQjYfR-bJc)
 - [Gabryel Silva: ERP, CRM e IA: O Futuro das Grandes Empresas | DevCast #25](https://www.youtube.com/watch?v=7r4d0nDzFFs)
 - [Testes Automatizados no Frontend com React.js, Next.js e TypeScript](https://www.youtube.com/watch?v=j4qx0ITDOVE)
-- [A incrível Jennyfer Lamego compartilhou conosco sua trajetória inspiradora! #salvatoreacademy](https://www.youtube.com/watch?v=NYG3jPD9Mpo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
