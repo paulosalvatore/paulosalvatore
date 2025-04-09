@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Gianluca Tessicini: Game Dev Completo: Unindo Código, Arte e Som #DevCast28](https://www.youtube.com/watch?v=yVozOCIHPu8)
 - [Daniel Risi: Design Centrado em Pessoas: Cabe IA Nessa Equação? #DevCast27](https://www.youtube.com/watch?v=chzU1l1uCAs)
 - [Bate-Papo Honesto: Novos Rumos do Canal para 2025](https://www.youtube.com/watch?v=7erzpuBUpQk)
 - [Davi Lemos: IA e Consciência: Estamos Criando Sabedoria ou Ruína? #DevCast26](https://www.youtube.com/watch?v=GsqDiCGZah0)
 - [A jornada pode ser desafiadora e longa, mas é possível chegar lá!](https://www.youtube.com/watch?v=vAQjYfR-bJc)
-- [Gabryel Silva: ERP, CRM e IA: O Futuro das Grandes Empresas | DevCast #25](https://www.youtube.com/watch?v=7r4d0nDzFFs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
