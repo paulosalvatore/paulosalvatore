@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [Recrutadores da gringa começaram a me chamar… e isso me surpreendeu](https://www.youtube.com/watch?v=OwIm4p5xFe0)
 - [Gianluca Tessicini: Game Dev Completo: Unindo Código, Arte e Som #DevCast28](https://www.youtube.com/watch?v=yVozOCIHPu8)
+- [Recrutadores da gringa começaram a me chamar… e isso me surpreendeu](https://www.youtube.com/watch?v=OwIm4p5xFe0)
 - [Daniel Risi: Design Centrado em Pessoas: Cabe IA Nessa Equação? #DevCast27](https://www.youtube.com/watch?v=chzU1l1uCAs)
 - [Bate-Papo Honesto: Novos Rumos do Canal para 2025](https://www.youtube.com/watch?v=7erzpuBUpQk)
 - [Davi Lemos: IA e Consciência: Estamos Criando Sabedoria ou Ruína? #DevCast26](https://www.youtube.com/watch?v=GsqDiCGZah0)
