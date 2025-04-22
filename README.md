@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Fiz 3 Entrevistas em Inglês: O Que Aprendi](https://www.youtube.com/watch?v=HPz6RDtxWjw)
 - [Kassiano Resende: Flutter Vai Matar o Android Nativo? #DevCast29](https://www.youtube.com/watch?v=hwphYGiga9o)
 - [Gianluca Tessicini: Game Dev Completo: Unindo Código, Arte e Som #DevCast28](https://www.youtube.com/watch?v=yVozOCIHPu8)
 - [Recrutadores da gringa começaram a me chamar… e isso me surpreendeu](https://www.youtube.com/watch?v=OwIm4p5xFe0)
 - [Daniel Risi: Design Centrado em Pessoas: Cabe IA Nessa Equação? #DevCast27](https://www.youtube.com/watch?v=chzU1l1uCAs)
-- [Bate-Papo Honesto: Novos Rumos do Canal para 2025](https://www.youtube.com/watch?v=7erzpuBUpQk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
