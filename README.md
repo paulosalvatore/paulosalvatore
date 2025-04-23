@@ -38,9 +38,9 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Kassiano Resende: Flutter Vai Matar o Android Nativo? #DevCast29](https://www.youtube.com/watch?v=hwphYGiga9o)
 - [Testes Automatizados: O Segredo da Arquitetura Ágil](https://www.youtube.com/watch?v=w-jyoQi8UnY)
 - [Fiz 3 Entrevistas em Inglês: O Que Aprendi](https://www.youtube.com/watch?v=HPz6RDtxWjw)
-- [Kassiano Resende: Flutter Vai Matar o Android Nativo? #DevCast29](https://www.youtube.com/watch?v=hwphYGiga9o)
 - [Gianluca Tessicini: Game Dev Completo: Unindo Código, Arte e Som #DevCast28](https://www.youtube.com/watch?v=yVozOCIHPu8)
 - [Recrutadores da gringa começaram a me chamar… e isso me surpreendeu](https://www.youtube.com/watch?v=OwIm4p5xFe0)
 <!-- YOUTUBE:END -->
