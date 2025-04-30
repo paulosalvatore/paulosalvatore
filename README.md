@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Programação / Game Dev ainda vale a pena?  #salvatoreacademy #devcast #programação #gamedev #ai #ia](https://www.youtube.com/watch?v=8pYWF0vNBu4)
 - [Como a IA Pode Impulsionar Seu Processo de Programação!](https://www.youtube.com/watch?v=ZZUA7cZypKU)
 - [Javier Santiago: Pix, Cripto e Stablecoins: Quem Vai Vencer? #DevCast30](https://www.youtube.com/watch?v=mLkzE2AmD5k)
 - [Kassiano Resende: Flutter Vai Matar o Android Nativo? #DevCast29](https://www.youtube.com/watch?v=hwphYGiga9o)
 - [Testes Automatizados: O Segredo da Arquitetura Ágil](https://www.youtube.com/watch?v=w-jyoQi8UnY)
-- [Fiz 3 Entrevistas em Inglês: O Que Aprendi](https://www.youtube.com/watch?v=HPz6RDtxWjw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
