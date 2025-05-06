@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Vivian Matsui: Escrever livro técnico é perrengue? #DevCast31](https://www.youtube.com/watch?v=fi7WgZTMxr0)
 - [Como Devs se mantêm atualizados? #gamedev #programação](https://www.youtube.com/watch?v=F3tN--TMYJ8)
 - [Javier Santiago: Pix, Cripto e Stablecoins: Quem Vai Vencer? #DevCast30](https://www.youtube.com/watch?v=mLkzE2AmD5k)
 - [Passei Pra Fase Final? Como Foi a Entrevista Mais Desafiadora Até Agora](https://www.youtube.com/watch?v=HAGH91049Ac)
 - [Programação / Game Dev ainda vale a pena?  #salvatoreacademy #devcast #programação #gamedev #ai #ia](https://www.youtube.com/watch?v=8pYWF0vNBu4)
-- [Como a IA Pode Impulsionar Seu Processo de Programação!](https://www.youtube.com/watch?v=ZZUA7cZypKU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
