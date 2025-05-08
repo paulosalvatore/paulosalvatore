@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Thaíssa Candella: Hype e Demissões: A Real do Mercado Dev #DevCast32](https://www.youtube.com/watch?v=BFCaxicZFq0)
 - [Vivian Matsui: Escrever livro técnico é perrengue? #DevCast31](https://www.youtube.com/watch?v=fi7WgZTMxr0)
 - [🎬 Esse erro no currículo pode te impedir de conseguir a vaga! 😱  #frontend #backend #javascript](https://www.youtube.com/watch?v=-zSATj7af4U)
 - [Como Devs se mantêm atualizados? #gamedev #programação](https://www.youtube.com/watch?v=F3tN--TMYJ8)
 - [Javier Santiago: Pix, Cripto e Stablecoins: Quem Vai Vencer? #DevCast30](https://www.youtube.com/watch?v=mLkzE2AmD5k)
-- [Passei Pra Fase Final? Como Foi a Entrevista Mais Desafiadora Até Agora](https://www.youtube.com/watch?v=HAGH91049Ac)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
