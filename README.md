@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Thaíssa Candella: Hype e Demissões: A Real do Mercado Dev #DevCast32](https://www.youtube.com/watch?v=LdiJHXX16pk)
 - [Você sabia que o Flutter pode ser sua porta de entrada no desenvolvimento de apps? 💥](https://www.youtube.com/watch?v=0vvEDQok70A)
-- [Thaíssa Candella: Hype e Demissões: A Real do Mercado Dev #DevCast32](https://www.youtube.com/watch?v=BFCaxicZFq0)
 - [Vivian Matsui: Escrever livro técnico é perrengue? #DevCast31](https://www.youtube.com/watch?v=fi7WgZTMxr0)
 - [🎬 Esse erro no currículo pode te impedir de conseguir a vaga! 😱  #frontend #backend #javascript](https://www.youtube.com/watch?v=-zSATj7af4U)
 - [Como Devs se mantêm atualizados? #gamedev #programação](https://www.youtube.com/watch?v=F3tN--TMYJ8)
