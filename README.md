@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Yara Senger: Carreira e Comunidade: O Par Perfeito na Inovação? #DevCast33](https://www.youtube.com/watch?v=nY4tDArDvjE)
 - [Imagina um sistema de pagamentos global, tipo o PIX, mas sem fronteiras! #blockchain #criptomoedas](https://www.youtube.com/watch?v=ElRgk-W5iE4)
 - [Thaíssa Candella: Hype e Demissões: A Real do Mercado Dev #DevCast32](https://www.youtube.com/watch?v=LdiJHXX16pk)
 - [Você sabia que o Flutter pode ser sua porta de entrada no desenvolvimento de apps? 💥](https://www.youtube.com/watch?v=0vvEDQok70A)
 - [Vivian Matsui: Escrever livro técnico é perrengue? #DevCast31](https://www.youtube.com/watch?v=fi7WgZTMxr0)
-- [🎬 Esse erro no currículo pode te impedir de conseguir a vaga! 😱  #frontend #backend #javascript](https://www.youtube.com/watch?v=-zSATj7af4U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
