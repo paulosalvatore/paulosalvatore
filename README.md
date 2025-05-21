@@ -38,9 +38,9 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Yara Mascarenhas: Carreira e Comunidade: O Par Perfeito na Inovação? #DevCast33](https://www.youtube.com/watch?v=nY4tDArDvjE)
 - [A IA Conversando Consigo Mesma Vai REVOLUCIONAR a Programação #programação  #inteligênciaartificial](https://www.youtube.com/watch?v=KcXtkoVLWZM)
 - [🚀 Quer mudar de carreira sem começar do zero? Backend x Frontend #programação #dev #frontend](https://www.youtube.com/watch?v=q2E69bT5NkY)
-- [Yara Mascarenhas: Carreira e Comunidade: O Par Perfeito na Inovação? #DevCast33](https://www.youtube.com/watch?v=nY4tDArDvjE)
 - [Imagina um sistema de pagamentos global, tipo o PIX, mas sem fronteiras! #blockchain #criptomoedas](https://www.youtube.com/watch?v=ElRgk-W5iE4)
 - [Thaíssa Candella: Hype e Demissões: A Real do Mercado Dev #DevCast32](https://www.youtube.com/watch?v=LdiJHXX16pk)
 <!-- YOUTUBE:END -->
