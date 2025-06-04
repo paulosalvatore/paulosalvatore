@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Cadu Hoffmann: Jogos + Educação: Gamificação e Aprendizagem #DevCast36](https://www.youtube.com/watch?v=D3tCXGs_khg)
 - [Lucas Sousa: SENAI, Comunidade, Educação, Indústria #DevCast35](https://www.youtube.com/watch?v=QyZpkjCisiA)
 - [Dicas pra VIRAR DEV na GRINGA! &lpar;e GANHAR em DÓLAR&rpar;](https://www.youtube.com/watch?v=lUvWaIPkMNI)
 - [Como transformar a LEITURA em HÁBITO?](https://www.youtube.com/watch?v=f-wzT9HRcWQ)
 - [Willian Silva: Tech na Gringa: Cidadania, Imigração e Irlanda #DevCast34](https://www.youtube.com/watch?v=aFAd1izRchE)
-- [Esse é o SEGREDO do futuro da TECNOLOGIA! 🚀](https://www.youtube.com/watch?v=WrWeSmkgMjk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
