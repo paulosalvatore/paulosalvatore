@@ -38,9 +38,9 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Lucas Sousa: SENAI, Comunidade, Educação, Indústria #DevCast35](https://www.youtube.com/watch?v=QyZpkjCisiA)
 - [Dicas pra VIRAR DEV na GRINGA! &lpar;e GANHAR em DÓLAR&rpar;](https://www.youtube.com/watch?v=lUvWaIPkMNI)
 - [Como transformar a LEITURA em HÁBITO?](https://www.youtube.com/watch?v=f-wzT9HRcWQ)
-- [Lucas Sousa: SENAI, Comunidade, Educação, Indústria #DevCast35](https://www.youtube.com/watch?v=QyZpkjCisiA)
 - [Willian Silva: Tech na Gringa: Cidadania, Imigração e Irlanda #DevCast34](https://www.youtube.com/watch?v=aFAd1izRchE)
 - [Esse é o SEGREDO do futuro da TECNOLOGIA! 🚀](https://www.youtube.com/watch?v=WrWeSmkgMjk)
 <!-- YOUTUBE:END -->
