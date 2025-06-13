@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Marcel Casarini: Game Dev no Canadá: Mercado, Educação e Futuro #DevCast37](https://www.youtube.com/watch?v=b0SpvNOnLWs)
 - [Cadu Hoffmann: Jogos + Educação: Gamificação e Aprendizagem #DevCast36](https://www.youtube.com/watch?v=D3tCXGs_khg)
 - [Programando com IA: O FUTURO do DESENVOLVIMENTO?  #programação #IA](https://www.youtube.com/watch?v=tthmdcqgmqM)
 - [GAME DEV: Criando Seu PRIMEIRO JOGO do Zero #dev #gamedev #desenvolvimentodejogos](https://www.youtube.com/shorts/EKZuCADeTRU)
 - [Lucas Sousa: SENAI, Comunidade, Educação, Indústria #DevCast35](https://www.youtube.com/watch?v=QyZpkjCisiA)
-- [Dicas pra VIRAR DEV na GRINGA! &lpar;e GANHAR em DÓLAR&rpar;](https://www.youtube.com/watch?v=lUvWaIPkMNI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
