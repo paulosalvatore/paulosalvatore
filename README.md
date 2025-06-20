@@ -42,7 +42,7 @@
 - [Marcel Casarini: Game Dev no Canadá: Mercado, Educação e Futuro #DevCast37](https://www.youtube.com/watch?v=b0SpvNOnLWs)
 - [A IA NUNCA vai saber fazer ISSO 🧠 #IA #tecnologia #tech](https://www.youtube.com/shorts/xLye9HMXgmw)
 - [Cadu Hoffmann: Jogos + Educação: Gamificação e Aprendizagem #DevCast36](https://www.youtube.com/watch?v=D3tCXGs_khg)
-- [Programando com IA: O FUTURO do DESENVOLVIMENTO?  #programação #IA](https://www.youtube.com/watch?v=tthmdcqgmqM)
+- [Programando com IA: O FUTURO do DESENVOLVIMENTO?  #programação #IA](https://www.youtube.com/shorts/tthmdcqgmqM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
