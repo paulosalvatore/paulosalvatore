@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Arthur Guttilla: Como foi morar no Vale do Silício no boom da AI? #DevCast38](https://www.youtube.com/watch?v=r8J4gJwIBvQ)
 - [Como o ERP REVOLUCIONA o Controle Empresarial](https://www.youtube.com/shorts/yFrj-UfU630)
 - [Desenvolvedores vs IA Qual é o Futuro do TRABALHO?](https://www.youtube.com/shorts/l9R1PoBR7Jk)
 - [Marcel Casarini: Game Dev no Canadá: Mercado, Educação e Futuro #DevCast37](https://www.youtube.com/watch?v=b0SpvNOnLWs)
 - [A IA NUNCA vai saber fazer ISSO 🧠 #IA #tecnologia #tech](https://www.youtube.com/shorts/xLye9HMXgmw)
-- [Cadu Hoffmann: Jogos + Educação: Gamificação e Aprendizagem #DevCast36](https://www.youtube.com/watch?v=D3tCXGs_khg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
