@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [Seu Trabalho Vai REALMENTE Sobreviver à IA? #programação #ia](https://www.youtube.com/shorts/yL-G33erkOc)
 - [Fabrício Kolk: Computação Quântica na Atualidade: O Que Esperar? #DevCast39](https://www.youtube.com/watch?v=-uuVHbjrtek)
+- [Seu Trabalho Vai REALMENTE Sobreviver à IA? #programação #ia](https://www.youtube.com/shorts/yL-G33erkOc)
 - [Arthur Guttilla: Como foi morar no Vale do Silício no boom da AI? #DevCast38](https://www.youtube.com/watch?v=r8J4gJwIBvQ)
 - [Como o ERP REVOLUCIONA o Controle Empresarial](https://www.youtube.com/shorts/yFrj-UfU630)
 - [Desenvolvedores vs IA Qual é o Futuro do TRABALHO?](https://www.youtube.com/shorts/l9R1PoBR7Jk)
