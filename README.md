@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [A IA que Transforma seu CELULAR em CINEMA](https://www.youtube.com/shorts/Jn_x9-zZ4TE)
 - [Explorando o OctoTools: A Nova Revolução da IA?](https://www.youtube.com/watch?v=i5Nma1DGjCU)
 - [Baptixta: Indie Game Dev e Design de Jogos #DevCast40](https://www.youtube.com/watch?v=xAFm_bQMcfc)
 - [Fabrício Kolk: Computação Quântica na Atualidade: O Que Esperar? #DevCast39](https://www.youtube.com/watch?v=-uuVHbjrtek)
 - [Seu Trabalho Vai REALMENTE Sobreviver à IA? #programação #ia](https://www.youtube.com/shorts/yL-G33erkOc)
-- [Arthur Guttilla: Como foi morar no Vale do Silício no boom da AI? #DevCast38](https://www.youtube.com/watch?v=r8J4gJwIBvQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
