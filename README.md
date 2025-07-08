@@ -1,17 +1,17 @@
 ## Hi! 👋🏻 I'm Paulo Salvatore :)
 
 <div>
+  <a href="http://linktr.ee/paulosalvatore" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-44ED63.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree" style="margin-bottom: 5px;" />
+  </a>
   <a href="https://youtube.com/paulosalvatore" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/paulosalvatore" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/paulosalvatoree" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/salvatorepaulo" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://www.linkedin.com/in/paulosalvatore-tech/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
 </div>
 
@@ -50,13 +50,7 @@
 <!-- STATS:START -->
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
-</div>
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula" alt="My contributions" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
 </div>
 
 <!-- STATS:END -->
