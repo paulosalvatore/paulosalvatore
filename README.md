@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Baptixta: Indie Game Dev e Design de Jogos #DevCast40](https://www.youtube.com/watch?v=xAFm_bQMcfc)
 - [IA? O momento é AGORA! #ia #tech #tecnologia #inovação](https://www.youtube.com/shorts/4vzgB69ZHnA)
 - [NPCs com Memória? O Futuro dos Jogos com IA](https://www.youtube.com/shorts/L449QJBoMS8)
 - [A IA que Transforma seu CELULAR em CINEMA](https://www.youtube.com/shorts/Jn_x9-zZ4TE)
 - [Explorando o OctoTools: A Nova Revolução da IA?](https://www.youtube.com/watch?v=i5Nma1DGjCU)
-- [Baptixta: Indie Game Dev e Design de Jogos #DevCast40](https://www.youtube.com/watch?v=xAFm_bQMcfc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
