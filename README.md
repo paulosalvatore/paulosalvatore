@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [A EVOLUÇÃO do TRABALHO com a IA #programação #dev #tech #tecnologia](https://www.youtube.com/shorts/TT18N_C5Z90)
 - [Hacks pra Conquistar um Trampo na Gringa](https://www.youtube.com/watch?v=GJQkw5dGqJQ)
 - [Lucas Vale: Realidades Estendidas, Educação e Tecnologia #DevCast41](https://www.youtube.com/watch?v=5HOP5Zb9yNM)
 - [Baptixta: Indie Game Dev e Design de Jogos #DevCast40](https://www.youtube.com/watch?v=xAFm_bQMcfc)
 - [IA? O momento é AGORA! #ia #tech #tecnologia #inovação](https://www.youtube.com/shorts/4vzgB69ZHnA)
-- [NPCs com Memória? O Futuro dos Jogos com IA](https://www.youtube.com/shorts/L449QJBoMS8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
