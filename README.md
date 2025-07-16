@@ -38,10 +38,10 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Lucas Vale: Realidades Estendidas, Educação e Tecnologia #DevCast41](https://www.youtube.com/watch?v=5HOP5Zb9yNM)
 - [Quer ficar RICO fazendo JOGOS? Assista esse vídeo! #gamedev #tech #programação #desenvolvimento](https://www.youtube.com/shorts/YD7dvySKBB0)
 - [A EVOLUÇÃO do TRABALHO com a IA #programação #dev #tech #tecnologia](https://www.youtube.com/shorts/TT18N_C5Z90)
 - [Hacks pra Conquistar um Trampo na Gringa](https://www.youtube.com/watch?v=GJQkw5dGqJQ)
-- [Lucas Vale: Realidades Estendidas, Educação e Tecnologia #DevCast41](https://www.youtube.com/watch?v=5HOP5Zb9yNM)
 - [Baptixta: Indie Game Dev e Design de Jogos #DevCast40](https://www.youtube.com/watch?v=xAFm_bQMcfc)
 <!-- YOUTUBE:END -->
 
