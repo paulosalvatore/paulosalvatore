@@ -39,7 +39,7 @@
 
 <!-- YOUTUBE:START -->
 - [KIMI K2 ESTÁ INSANO! O novo LLM Chinês Open Source](https://www.youtube.com/watch?v=NveFsb_ZZyc)
-- [Renê, Marcel e Priscilla: Educação, Tecnologia, FIAP #DevCast42](https://www.youtube.com/watch?v=Sppz9wOgRgA)
+- [Renê Oliveira: Educação, Tecnologia, FIAP #DevCast42](https://www.youtube.com/watch?v=Sppz9wOgRgA)
 - [Lucas Vale: Realidades Estendidas, Educação e Tecnologia #DevCast41](https://www.youtube.com/watch?v=5HOP5Zb9yNM)
 - [Quer ficar RICO fazendo JOGOS? Assista esse vídeo! #gamedev #tech #programação #desenvolvimento](https://www.youtube.com/shorts/YD7dvySKBB0)
 - [A EVOLUÇÃO do TRABALHO com a IA #programação #dev #tech #tecnologia](https://www.youtube.com/shorts/TT18N_C5Z90)
