@@ -38,10 +38,10 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Renê Oliveira: Educação, Tecnologia, FIAP #DevCast42](https://www.youtube.com/watch?v=Sppz9wOgRgA)
 - [Ser AUTÊNTICO não é fácil! #dev  #tecnologia](https://www.youtube.com/shorts/ecAtgnHKs-M)
 - [MULTIAGENTES: o FUTURO da IA](https://www.youtube.com/shorts/RPMEYpn2baE)
 - [KIMI K2 ESTÁ INSANO! O novo LLM Chinês Open Source](https://www.youtube.com/watch?v=NveFsb_ZZyc)
-- [Renê Oliveira: Educação, Tecnologia, FIAP #DevCast42](https://www.youtube.com/watch?v=Sppz9wOgRgA)
 - [Lucas Vale: Realidades Estendidas, Educação e Tecnologia #DevCast41](https://www.youtube.com/watch?v=5HOP5Zb9yNM)
 <!-- YOUTUBE:END -->
 
