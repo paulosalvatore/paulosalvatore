@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Mário Torres: Vibe Coding, IA, Negócios, Programação #DevCast43](https://www.youtube.com/watch?v=TLxDDQiTUVY)
 - [Renê Oliveira: Educação, Tecnologia, FIAP #DevCast42](https://www.youtube.com/watch?v=Sppz9wOgRgA)
 - [Ser AUTÊNTICO não é fácil! #dev  #tecnologia](https://www.youtube.com/shorts/ecAtgnHKs-M)
 - [MULTIAGENTES: o FUTURO da IA](https://www.youtube.com/shorts/RPMEYpn2baE)
 - [KIMI K2 ESTÁ INSANO! O novo LLM Chinês Open Source](https://www.youtube.com/watch?v=NveFsb_ZZyc)
-- [Lucas Vale: Realidades Estendidas, Educação e Tecnologia #DevCast41](https://www.youtube.com/watch?v=5HOP5Zb9yNM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
