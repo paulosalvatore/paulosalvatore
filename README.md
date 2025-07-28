@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [A IA vai MUDAR a EDUCAÇÃO? #ia #educação #tecnologia](https://www.youtube.com/shorts/88ICgbnv2_k)
 - [a VIDA REAL de um DEV NÔMADE &lpar;não é só glamour&rpar;](https://www.youtube.com/watch?v=5TNjVHYFrLU)
 - [Mário Torres: Vibe Coding, IA, Negócios, Programação #DevCast43](https://www.youtube.com/watch?v=TLxDDQiTUVY)
 - [Renê Oliveira: Educação, Tecnologia, FIAP #DevCast42](https://www.youtube.com/watch?v=Sppz9wOgRgA)
 - [Ser AUTÊNTICO não é fácil! #dev  #tecnologia](https://www.youtube.com/shorts/ecAtgnHKs-M)
-- [MULTIAGENTES: o FUTURO da IA](https://www.youtube.com/shorts/RPMEYpn2baE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
