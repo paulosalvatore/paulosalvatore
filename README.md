@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [o BUG de 125 MILHÕES da NASA! &lpar;e o que você pode aprender com isso&rpar;](https://www.youtube.com/watch?v=qK97upDwTAA)
 - [Mário Torres: Vibe Coding, IA, Negócios, Programação #DevCast43](https://www.youtube.com/watch?v=TLxDDQiTUVY)
 - [A IA vai MUDAR a EDUCAÇÃO? #ia #educação #tecnologia](https://www.youtube.com/shorts/88ICgbnv2_k)
 - [a VIDA REAL de um DEV NÔMADE &lpar;não é só glamour&rpar;](https://www.youtube.com/watch?v=5TNjVHYFrLU)
 - [Renê Oliveira: Educação, Tecnologia, FIAP #DevCast42](https://www.youtube.com/watch?v=Sppz9wOgRgA)
-- [Ser AUTÊNTICO não é fácil! #dev  #tecnologia](https://www.youtube.com/shorts/ecAtgnHKs-M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
