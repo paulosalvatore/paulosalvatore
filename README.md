@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Sylker Teles: Games e IA #DevCast45](https://www.youtube.com/watch?v=qMI6_HyQ1LQ)
 - [Quer VIVER de JOGOS? Escuta ISSO Antes!](https://www.youtube.com/shorts/zCzmEZ_Inwo)
 - [Automatizando seu dia a dia com Agentes de IA #DevCast44](https://www.youtube.com/watch?v=zYsxjhn5cnc)
 - [MULHERES na TECNOLOGIA: Espaço a ser OCUPADO!](https://www.youtube.com/shorts/skgo3Xvn0iw)
 - [A realidade mista vai REVOLUCIONAR o aprendizado!](https://www.youtube.com/shorts/4OSoRerXVns)
-- [o BUG de 125 MILHÕES da NASA! &lpar;e o que você pode aprender com isso&rpar;](https://www.youtube.com/watch?v=qK97upDwTAA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
