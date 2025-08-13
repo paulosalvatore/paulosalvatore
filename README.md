@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Gabs Ferreira: Tech, Carreira Internacional e Trabalho Remoto #DevCast46](https://www.youtube.com/watch?v=EB8hqarQ_a8)
 - [Sylker Teles: Games e IA #DevCast45](https://www.youtube.com/watch?v=qMI6_HyQ1LQ)
 - [Essa IA se Corrige SOZINHA… e Fica Cada Vez MELHOR!](https://www.youtube.com/shorts/E3uDNio0m6A)
 - [Quer VIVER de JOGOS? Escuta ISSO Antes!](https://www.youtube.com/shorts/zCzmEZ_Inwo)
 - [Automatizando seu dia a dia com Agentes de IA #DevCast44](https://www.youtube.com/watch?v=zYsxjhn5cnc)
-- [MULHERES na TECNOLOGIA: Espaço a ser OCUPADO!](https://www.youtube.com/shorts/skgo3Xvn0iw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
