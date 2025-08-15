@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Eu Deixei a IA Pesquisar por Mim… e o Resultado SURPREEENDEU!](https://www.youtube.com/shorts/Y3FpWJmzGXA)
+- [Guarapari sem roteiro: o fim de semana de um nômade digital](https://www.youtube.com/watch?v=SHq1Nwa0bJ8)
 - [Gabs Ferreira: Tech, Carreira Internacional e Trabalho Remoto #DevCast46](https://www.youtube.com/watch?v=EB8hqarQ_a8)
 - [Sylker Teles: Games e IA #DevCast45](https://www.youtube.com/watch?v=qMI6_HyQ1LQ)
 - [Essa IA se Corrige SOZINHA… e Fica Cada Vez MELHOR!](https://www.youtube.com/shorts/E3uDNio0m6A)
-- [Quer VIVER de JOGOS? Escuta ISSO Antes!](https://www.youtube.com/shorts/zCzmEZ_Inwo)
-- [Automatizando seu dia a dia com Agentes de IA #DevCast44](https://www.youtube.com/watch?v=zYsxjhn5cnc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
