@@ -42,7 +42,7 @@
 - [Por que o VALE DO SILÍCIO deu CERTO? #tecnologia](https://www.youtube.com/shorts/r1oORA1ghUg)
 - [Eu Deixei a IA Pesquisar por Mim… e o Resultado SURPREEENDEU!](https://www.youtube.com/shorts/Y3FpWJmzGXA)
 - [Guarapari sem roteiro: o fim de semana de um nômade digital](https://www.youtube.com/watch?v=SHq1Nwa0bJ8)
-- [Gabs Ferreira: Tech, Carreira Internacional e Trabalho Remoto #DevCast46](https://www.youtube.com/watch?v=EB8hqarQ_a8)
+- [Tech, Carreira Internacional e Trabalho Remoto #DevCast46](https://www.youtube.com/watch?v=EB8hqarQ_a8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
