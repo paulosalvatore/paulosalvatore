@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [O ChatGPT-5 chegou... essa IA não é o que você pensa. 🤯](https://www.youtube.com/shorts/yaDRVlJ60Ao)
 - [GPT-5: O MODELO MAIS AGUARDADO!](https://www.youtube.com/watch?v=jMcEKnaCLq0)
-- [Por que o VALE DO SILÍCIO deu CERTO? #tecnologia](https://www.youtube.com/shorts/r1oORA1ghUg)
 - [Eu Deixei a IA Pesquisar por Mim… e o Resultado SURPREEENDEU!](https://www.youtube.com/shorts/Y3FpWJmzGXA)
 - [Guarapari sem roteiro: o fim de semana de um nômade digital](https://www.youtube.com/watch?v=SHq1Nwa0bJ8)
 - [Tech, Carreira Internacional e Trabalho Remoto #DevCast46](https://www.youtube.com/watch?v=EB8hqarQ_a8)
