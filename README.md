@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [O que MUDOU no GPT-5 &lpar;vale a pena?&rpar;](https://www.youtube.com/shorts/mcmMN544JLk)
 - [O SEGREDO do SUCESSO do Vale do Silício](https://www.youtube.com/shorts/ZIfFreSFhR0)
 - [GPT-5: O MODELO MAIS AGUARDADO!](https://www.youtube.com/watch?v=jMcEKnaCLq0)
 - [Eu Deixei a IA Pesquisar por Mim… e o Resultado SURPREEENDEU!](https://www.youtube.com/shorts/Y3FpWJmzGXA)
 - [Guarapari sem roteiro: o fim de semana de um nômade digital](https://www.youtube.com/watch?v=SHq1Nwa0bJ8)
-- [Tech, Carreira Internacional e Trabalho Remoto #DevCast46](https://www.youtube.com/watch?v=EB8hqarQ_a8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
