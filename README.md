@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Dev brasileiro pode ganhar em dólar! 💸](https://www.youtube.com/shorts/q2tcF5nEHl8)
 - [A IA vai ACABAR com a PROGRAMAÇÃO? &lpar;segundo o CEO da NVIDIA&rpar;](https://www.youtube.com/shorts/ZmUlAHqycn0)
 - [Vitor Hugo: Programação, Vibe Coding, IA, Hackathon #DevCast47](https://www.youtube.com/watch?v=Xrozx7kFZn8)
 - [Tech, Carreira Internacional e Trabalho Remoto #DevCast46](https://www.youtube.com/watch?v=EB8hqarQ_a8)
 - [O que MUDOU no GPT-5 &lpar;vale a pena?&rpar;](https://www.youtube.com/shorts/mcmMN544JLk)
-- [O SEGREDO do SUCESSO do Vale do Silício](https://www.youtube.com/shorts/ZIfFreSFhR0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
