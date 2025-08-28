@@ -38,7 +38,7 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [AGENTES de IA e LLMs: O QUE É ISSO?](https://www.youtube.com/watch?v=65o7-AdC5Yc)
+- [AGENTES de IA e LLMs: O que VOCÊ DEVERIA SABER sobre?](https://www.youtube.com/watch?v=65o7-AdC5Yc)
 - [Langchain &amp; Open Deep Research #DevCast48](https://www.youtube.com/watch?v=LSMFFp1VhWU)
 - [Vitor Hugo: Programação, Vibe Coding, IA, Hackathon #DevCast47](https://www.youtube.com/watch?v=Xrozx7kFZn8)
 - [Dev brasileiro pode ganhar em dólar! 💸](https://www.youtube.com/shorts/q2tcF5nEHl8)
