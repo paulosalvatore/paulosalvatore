@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [🚀 A IA que aprendeu a jogar Minecraft sozinha!](https://www.youtube.com/shorts/KEG08xEqnWk)
 - [AGENTES de IA e LLMs: O que VOCÊ DEVERIA SABER sobre?](https://www.youtube.com/watch?v=65o7-AdC5Yc)
 - [Langchain &amp; Open Deep Research #DevCast48](https://www.youtube.com/watch?v=LSMFFp1VhWU)
 - [Vitor Hugo: Programação, Vibe Coding, IA, Hackathon #DevCast47](https://www.youtube.com/watch?v=Xrozx7kFZn8)
 - [Dev brasileiro pode ganhar em dólar! 💸](https://www.youtube.com/shorts/q2tcF5nEHl8)
-- [A IA vai ACABAR com a PROGRAMAÇÃO? &lpar;segundo o CEO da NVIDIA&rpar;](https://www.youtube.com/shorts/ZmUlAHqycn0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
