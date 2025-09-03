@@ -38,10 +38,10 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Langchain &amp; Open Deep Research #DevCast48](https://www.youtube.com/watch?v=LSMFFp1VhWU)
 - [Automatizar ou pagar caro? IA cortando custos no backoffice!](https://www.youtube.com/shorts/wEdWeQI3nb4)
 - [🚀 A IA que aprendeu a jogar Minecraft sozinha!](https://www.youtube.com/shorts/KEG08xEqnWk)
 - [AGENTES de IA e LLMs: O que VOCÊ DEVERIA SABER sobre?](https://www.youtube.com/watch?v=65o7-AdC5Yc)
-- [Langchain &amp; Open Deep Research #DevCast48](https://www.youtube.com/watch?v=LSMFFp1VhWU)
 - [Vitor Hugo: Programação, Vibe Coding, IA, Hackathon #DevCast47](https://www.youtube.com/watch?v=Xrozx7kFZn8)
 <!-- YOUTUBE:END -->
 
