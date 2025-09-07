@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Onde a IA dá mais RETORNO FINANCEIRO e OPORTUNIDADES!](https://www.youtube.com/shorts/yzRe52zGVcA)
 - [Arquitetura Cognitiva: Como os AGENTES DE IA Pensam e Planejam](https://www.youtube.com/watch?v=EYysSu5vCjQ)
 - [Rogério Azevedo: IA, Empreendedorismo e Carreira: novos caminhos #DevCast49](https://www.youtube.com/watch?v=S-AuKS6qWyI)
 - [Langchain &amp; Open Deep Research #DevCast48](https://www.youtube.com/watch?v=LSMFFp1VhWU)
 - [Automatizar ou pagar caro? IA cortando custos no backoffice!](https://www.youtube.com/shorts/wEdWeQI3nb4)
-- [🚀 A IA que aprendeu a jogar Minecraft sozinha!](https://www.youtube.com/shorts/KEG08xEqnWk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
