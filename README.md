@@ -38,10 +38,10 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Rogério Azevedo: IA, Empreendedorismo e Carreira: novos caminhos #DevCast49](https://www.youtube.com/watch?v=S-AuKS6qWyI)
 - [José Lessa: Por Que Engenheiros de IA São os Novos Arquitetos da Indústria #DevCast50](https://www.youtube.com/watch?v=04p2R-m_88I)
 - [Onde a IA dá mais RETORNO FINANCEIRO e OPORTUNIDADES!](https://www.youtube.com/shorts/yzRe52zGVcA)
 - [Arquitetura Cognitiva: Como os AGENTES DE IA Pensam e Planejam](https://www.youtube.com/watch?v=EYysSu5vCjQ)
-- [Rogério Azevedo: IA, Empreendedorismo e Carreira: novos caminhos #DevCast49](https://www.youtube.com/watch?v=S-AuKS6qWyI)
 - [Langchain &amp; Open Deep Research #DevCast48](https://www.youtube.com/watch?v=LSMFFp1VhWU)
 <!-- YOUTUBE:END -->
 
