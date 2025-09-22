@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Explorando o curso gratuito da Langchain que vai te colocar no próximo nível como dev de IA](https://www.youtube.com/watch?v=THkCh_hpJEU)
 - [Ninguém Vai Pagar Pelo Seu Produto se Ele Não Resolver Uma Dor Real](https://www.youtube.com/shorts/UrmBvYlH2ms)
 - [Do Zero ao FullStack – Um Guia para Devs #DevCast51](https://www.youtube.com/watch?v=UWruqEDruXg)
 - [José Lessa: Por Que Engenheiros de IA São os Novos Arquitetos da Indústria #DevCast50](https://www.youtube.com/watch?v=04p2R-m_88I)
 - [Essa Habilidade SIMPLES Pode MUDAR Sua Vida!](https://www.youtube.com/shorts/NjHGHnrGyBE)
-- [IA vai ACABAR com a ARTE nos JOGOS INDIE?](https://www.youtube.com/shorts/08TigI-OjJ4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
