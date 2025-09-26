@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [👉 A IA NUNCA vai ser Forte? &lpar;a polêmica explicada&rpar;](https://www.youtube.com/shorts/HZozcxwHL4c)
 - [A Jornada Nômade – Trabalhando e Viajando pelo Brasil #DevCast52](https://www.youtube.com/watch?v=dRhNv0HxXnw)
 - [Do Zero ao FullStack – Um Guia para Devs #DevCast51](https://www.youtube.com/watch?v=UWruqEDruXg)
 - [É por ISSO que larguei o escritório: cozinha, programação e rolê de bike por Itacaré - BA](https://www.youtube.com/shorts/CTJi0ff4LXw)
 - [👉 O SEGREDO do DEV do FUTURO &lpar;não é só código&rpar;](https://www.youtube.com/shorts/sKtdw3LQoiQ)
-- [Como criar um Agente de IA de DEEP RESEARCH](https://www.youtube.com/watch?v=THkCh_hpJEU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
