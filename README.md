@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Ele odiava JavaScript até fazer um pedido de delivery... O QUE ACONTECEU?](https://www.youtube.com/shorts/t2WBBWljlCU)
 - [Além do RAG: Como AGENTES DE IA Estão Ganhando Memória, Protocolos e Escala](https://www.youtube.com/watch?v=2t-ddmLvTJA)
 - [👉 A IA NUNCA vai ser Forte? &lpar;a polêmica explicada&rpar;](https://www.youtube.com/shorts/HZozcxwHL4c)
 - [A Jornada Nômade – Trabalhando e Viajando pelo Brasil #DevCast52](https://www.youtube.com/watch?v=dRhNv0HxXnw)
 - [Do Zero ao FullStack – Um Guia para Devs #DevCast51](https://www.youtube.com/watch?v=UWruqEDruXg)
-- [É por ISSO que larguei o escritório: cozinha, programação e rolê de bike por Itacaré - BA](https://www.youtube.com/shorts/CTJi0ff4LXw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
