@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [O PERIGO da IA treinar com ela mesma &lpar;e o FUTURO da WEB&rpar;](https://www.youtube.com/shorts/oHlm03Rqcu4)
 - [Desafio 7-14-30-90 Dias: Como Aprender Dev na Prática 🚀](https://www.youtube.com/shorts/9DjAyua3k5c)
 - [🚀 IA no Fluxo DEV: A REVOLUÇÃO na PROGRAMAÇÃO](https://www.youtube.com/shorts/8HV1T3UO3p4)
 - [Urik Inhauser: QA é herói ou vilão? #DevCast53](https://www.youtube.com/watch?v=URUantTYD5k)
 - [A Jornada Nômade – Trabalhando e Viajando pelo Brasil #DevCast52](https://www.youtube.com/watch?v=dRhNv0HxXnw)
-- [Ele odiava JavaScript até fazer um pedido de delivery... O QUE ACONTECEU?](https://www.youtube.com/shorts/t2WBBWljlCU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
