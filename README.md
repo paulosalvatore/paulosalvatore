@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Esse é o ERRO que até a IA comete &lpar;e você não pode cometer!&rpar; #programação](https://www.youtube.com/shorts/JpwGKhODhNs)
 - [Construindo uma IA que programa sozinha #DevCast54](https://www.youtube.com/watch?v=yMlNaqg6kSk)
 - [A IA está REVOLUCIONANDO os TESTES end-to-end de software!](https://www.youtube.com/shorts/inBetjZV8iY)
 - [O Fim dos Celulares? Meta e Ray-Ban Apresentam os Óculos do Futuro!](https://www.youtube.com/shorts/_Bcor_m2EBs)
 - [O FIM DO PHOTOSHOP? Testei o NANOBANANA e ele é SURREAL!](https://www.youtube.com/watch?v=Ex3UZXPqUYE)
-- [Entenda COMPUTAÇÃO QUÂNTICA explicada de forma SIMPLES em 2 minutos!!](https://www.youtube.com/shorts/5_E0gHNOJbM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
