@@ -38,9 +38,9 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [ChatKit da OpenAPI: realmente muda o jogo? #DevCast55](https://www.youtube.com/watch?v=ugbbpBNl11o)
 - [trabalhar com programação e viver de onde faz sentido #nomadedigital](https://www.youtube.com/shorts/uzrYPNkk894)
 - [O que NINGUÉM te conta sobre ser NÔMADE DIGITAL?](https://www.youtube.com/shorts/t-J2P_gKrQQ)
-- [ChatKit da OpenAPI: realmente muda o jogo? #DevCast55](https://www.youtube.com/watch?v=ugbbpBNl11o)
 - [Esse é o ERRO que até a IA comete &lpar;e você não pode cometer!&rpar; #programação](https://www.youtube.com/shorts/JpwGKhODhNs)
 - [Construindo uma IA que programa sozinha #DevCast54](https://www.youtube.com/watch?v=yMlNaqg6kSk)
 <!-- YOUTUBE:END -->
