@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [um dia com as baleias em Itacaré - BA](https://www.youtube.com/shorts/GVTPtf6_laY)
 - [viajando de Itacaré a Taipu de Fora: 45km de lama pra achar Wi-Fi &lpar;vida de nômade digital&rpar;](https://www.youtube.com/watch?v=wqLnJ2FvIYk)
 - [O QA é o Suporte no Desenvolvimento de Software](https://www.youtube.com/shorts/obS8v5PDcbA)
 - [Alison Rucks: IA, Tecnologia, Carreira Internacional, Surf #DevCast56](https://www.youtube.com/watch?v=KDZh5qZ7KZo)
 - [ChatKit da OpenAPI: realmente muda o jogo? #DevCast55](https://www.youtube.com/watch?v=ugbbpBNl11o)
-- [trabalhar com programação e viver de onde faz sentido #nomadedigital](https://www.youtube.com/shorts/uzrYPNkk894)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
