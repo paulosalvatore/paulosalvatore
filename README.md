@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Comprei a STARLINK MINI pra ter internet na praia &lpar;Itacaré/BA&rpar;. O perrengue da instalação.](https://www.youtube.com/watch?v=_vLXnRzRDBU)
 - [Morar NESSE LUGAR me SURPREENDEU! | Viagem, Nomadismo Digital, Turismo](https://www.youtube.com/shorts/9q0HFPnn_cc)
 - [um dia com as baleias em Itacaré - BA](https://www.youtube.com/shorts/GVTPtf6_laY)
 - [viajando de Itacaré a Taipu de Fora: 45km de lama pra achar Wi-Fi &lpar;vida de nômade digital&rpar;](https://www.youtube.com/watch?v=wqLnJ2FvIYk)
 - [O QA é o Suporte no Desenvolvimento de Software](https://www.youtube.com/shorts/obS8v5PDcbA)
-- [Alison Rucks: IA, Tecnologia, Carreira Internacional, Surf #DevCast56](https://www.youtube.com/watch?v=KDZh5qZ7KZo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
