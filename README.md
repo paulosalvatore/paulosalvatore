@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [O custo INVÍSIVEL da IA &lpar;e o Google tá no meio disso&rpar;](https://www.youtube.com/shorts/q_vL9YxBARc)
 - [Kmilo Aparicio: DevOps/MLOps, Surf Trips e Futuro da América Latina #DevCast57](https://www.youtube.com/watch?v=lXvddwLKYC8)
+- [O custo INVÍSIVEL da IA &lpar;e o Google tá no meio disso&rpar;](https://www.youtube.com/shorts/q_vL9YxBARc)
 - [Alison Rucks: IA, Tecnologia, Carreira Internacional, Surf #DevCast56](https://www.youtube.com/watch?v=KDZh5qZ7KZo)
 - [Comprei a STARLINK MINI pra ter internet na praia &lpar;Itacaré/BA&rpar;. O perrengue da instalação.](https://www.youtube.com/watch?v=_vLXnRzRDBU)
 - [Morar NESSE LUGAR me SURPREENDEU! | Viagem, Nomadismo Digital, Turismo](https://www.youtube.com/shorts/9q0HFPnn_cc)
