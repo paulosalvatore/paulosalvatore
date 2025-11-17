@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [O Lado ESCONDIDO de Itacaré &lpar;VLOG de um Nômade&rpar;](https://www.youtube.com/watch?v=zGUegGVn9VQ)
 - [A Tecnologia &quot;Esquecida&quot; que Engajou um Aluno com TEA](https://www.youtube.com/shorts/R2nnkat5ImA)
 - [POV: Sua hora de almoço como Nômade Digital](https://www.youtube.com/shorts/i-oasuK_OFI)
 - [o Burnout que me fez parar tudo](https://www.youtube.com/shorts/oeNcGxAh3ss)
 - [Usei Windows por 30 anos e odiava Mac &lpar;até ter um&rpar;. A análise de um DEV](https://www.youtube.com/watch?v=l6e06xnJpyQ)
-- [Essa É A NOVA INTELIGÊNCIA humana! 🤯](https://www.youtube.com/shorts/DBwkFj8t-Jw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
