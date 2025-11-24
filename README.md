@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Jam session improvisada em Itacaré 🔊](https://www.youtube.com/shorts/sSnBYUFLpOs)
 - [IA: A GRANDE Virada da TECNOLOGIA na América Latina](https://www.youtube.com/shorts/NWU7Tqk1Bw4)
 - [O ChatGPT VIROU UM MONSTRO? 🤯](https://www.youtube.com/shorts/7qSBn7ER3mg)
 - [O Lado ESCONDIDO de Itacaré &lpar;VLOG de um Nômade&rpar;](https://www.youtube.com/watch?v=zGUegGVn9VQ)
 - [A Tecnologia &quot;Esquecida&quot; que Engajou um Aluno com TEA](https://www.youtube.com/shorts/R2nnkat5ImA)
-- [POV: Sua hora de almoço como Nômade Digital](https://www.youtube.com/shorts/i-oasuK_OFI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
