@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [GAMEDEV: seu jogo PRECISA &quot;falhar&quot; cedo!!](https://www.youtube.com/shorts/ydFoWzgKFgE)
+- [O setup de hoje foi diferente: mesa de sinuca e pudim 🎱🍮](https://www.youtube.com/shorts/U67eTlcpOzo)
 - [Redescobrindo a Praia do Rosa - SC | Uma Nova Perspectiva](https://www.youtube.com/watch?v=7TNFnesMtdA)
 - [Javier, Kmilo e Morett: Tecnologia em 2026: O Que Vem Aí? #DevCast58](https://www.youtube.com/watch?v=kZrxxKSculY)
 - [Jam session improvisada em Itacaré 🔊](https://www.youtube.com/shorts/sSnBYUFLpOs)
-- [IA: A GRANDE Virada da TECNOLOGIA na América Latina](https://www.youtube.com/shorts/NWU7Tqk1Bw4)
-- [O ChatGPT VIROU UM MONSTRO? 🤯](https://www.youtube.com/shorts/7qSBn7ER3mg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
