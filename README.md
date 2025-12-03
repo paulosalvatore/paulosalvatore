@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Javier, Kmilo e Morett: Tecnologia em 2026: O Que Vem Aí? #DevCast58](https://www.youtube.com/watch?v=kZrxxKSculY)
 - [O que NINGUÉM te conta sobre ser nômade digital…](https://www.youtube.com/shorts/cbNJZvl1zfM)
 - [aulas de surf no paraíso escondido em Santa Catarina.](https://www.youtube.com/watch?v=yTEnQZqHra0)
 - [GAMEDEV: seu jogo PRECISA &quot;falhar&quot; cedo!!](https://www.youtube.com/shorts/ydFoWzgKFgE)
 - [O setup de hoje foi diferente: mesa de sinuca e pudim 🎱🍮](https://www.youtube.com/shorts/U67eTlcpOzo)
-- [Redescobrindo a Praia do Rosa - SC | Uma Nova Perspectiva](https://www.youtube.com/watch?v=7TNFnesMtdA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
