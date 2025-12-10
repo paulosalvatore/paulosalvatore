@@ -38,8 +38,8 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [IA + Trabalho Remoto na Gringa: O mercado tá aquecido!!](https://www.youtube.com/shorts/pIrgsKbulmU)
 - [Adriano Tagliaferro: Programação em 2026: ainda vale investir nessa área? #DevCast59](https://www.youtube.com/watch?v=Q6TAV3rxidM)
+- [IA + Trabalho Remoto na Gringa: O mercado tá aquecido!!](https://www.youtube.com/shorts/pIrgsKbulmU)
 - [Javier, Kmilo e Morett: Tecnologia em 2026: O Que Vem Aí? #DevCast58](https://www.youtube.com/watch?v=kZrxxKSculY)
 - [O que NINGUÉM te conta sobre ser nômade digital…](https://www.youtube.com/shorts/cbNJZvl1zfM)
 - [aulas de surf no paraíso escondido em Santa Catarina.](https://www.youtube.com/watch?v=yTEnQZqHra0)
