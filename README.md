@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Aniversário + Trilha na Chapada Diamantina - BA](https://www.youtube.com/watch?v=j-P53ieSv8Y)
 - [Fechando 2025, Abrindo 2026: Retrospectiva #DevCast60](https://www.youtube.com/watch?v=f0kCpPdQY0Q)
 - [Adriano Tagliaferro: Programação em 2026: ainda vale investir nessa área? #DevCast59](https://www.youtube.com/watch?v=Q6TAV3rxidM)
 - [IA + Trabalho Remoto na Gringa: O mercado tá aquecido!!](https://www.youtube.com/shorts/pIrgsKbulmU)
 - [Javier, Kmilo e Morett: Tecnologia em 2026: O Que Vem Aí? #DevCast58](https://www.youtube.com/watch?v=kZrxxKSculY)
-- [O que NINGUÉM te conta sobre ser nômade digital…](https://www.youtube.com/shorts/cbNJZvl1zfM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
