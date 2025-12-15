@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [TÁ RIDÍCULO: Como programo com 4 IAs ao mesmo tempo](https://www.youtube.com/shorts/8e2LGvoNelc)
 - [Aniversário na Chapada Diamantina: Trilha + Cachoeira do Buracão 🥾](https://www.youtube.com/shorts/yo8EOEqtWtI)
 - [Aniversário + Trilha na Chapada Diamantina - BA](https://www.youtube.com/watch?v=j-P53ieSv8Y)
 - [Fechando 2025, Abrindo 2026: Retrospectiva #DevCast60](https://www.youtube.com/watch?v=f0kCpPdQY0Q)
 - [Adriano Tagliaferro: Programação em 2026: ainda vale investir nessa área? #DevCast59](https://www.youtube.com/watch?v=Q6TAV3rxidM)
-- [IA + Trabalho Remoto na Gringa: O mercado tá aquecido!!](https://www.youtube.com/shorts/pIrgsKbulmU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
