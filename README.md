@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [ESSA é a habilidade que a IA NUNCA vai SUBSTITUIR](https://www.youtube.com/shorts/74GRllovul8)
 - [Fechando 2025, Abrindo 2026: Retrospectiva #DevCast60](https://www.youtube.com/watch?v=f0kCpPdQY0Q)
 - [TÁ RIDÍCULO: Como programo com 4 IAs ao mesmo tempo](https://www.youtube.com/shorts/8e2LGvoNelc)
 - [Aniversário na Chapada Diamantina: Trilha + Cachoeira do Buracão 🥾](https://www.youtube.com/shorts/yo8EOEqtWtI)
 - [Aniversário + Trilha na Chapada Diamantina - BA](https://www.youtube.com/watch?v=j-P53ieSv8Y)
-- [Adriano Tagliaferro: Programação em 2026: ainda vale investir nessa área? #DevCast59](https://www.youtube.com/watch?v=Q6TAV3rxidM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
