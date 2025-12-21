@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [O Google ACORDOU? NotebookLM, Nano Banana e o perigo do Anti-Gravity](https://www.youtube.com/shorts/u5Xb6e2VarY)
 - [Sozinho na trilha da Cachoeira da Fumaça | Chapada Diamantina](https://www.youtube.com/watch?v=inHDZKhicLk)
 - [ESSA é a habilidade que a IA NUNCA vai SUBSTITUIR](https://www.youtube.com/shorts/74GRllovul8)
 - [Fechando 2025, Abrindo 2026: Retrospectiva #DevCast60](https://www.youtube.com/watch?v=f0kCpPdQY0Q)
 - [TÁ RIDÍCULO: Como programo com 4 IAs ao mesmo tempo](https://www.youtube.com/shorts/8e2LGvoNelc)
-- [Aniversário na Chapada Diamantina: Trilha + Cachoeira do Buracão 🥾](https://www.youtube.com/shorts/yo8EOEqtWtI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
