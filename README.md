@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [CÓDIGO NÃO É TUDO! Isso é o que te paga mais!](https://www.youtube.com/shorts/P4bLQ7VqTeg)
 - [Trabalho Remoto e Surf em Morro de São Paulo](https://www.youtube.com/watch?v=XRCHkHIZSW8)
 - [Surfando NO PARAÍSO | Morro de São Paulo - BA #surf #praia #nomadedigital](https://www.youtube.com/shorts/l0RoSU233YM)
 - [SEJA INSUBSTITUÍVEL! Só saber código não é o suficiente](https://www.youtube.com/shorts/aGqpQ-40QzM)
 - [A VERDADE Que NINGUÉM Fala: Sem Lógica, a IA Vai te Enganar](https://www.youtube.com/shorts/f1Uue7BXtT0)
-- [O Melhor Momento pra Programar e Virar Dev é Agora &lpar;Sério&rpar;](https://www.youtube.com/shorts/uCjmAHcpENk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
