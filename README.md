@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [O FIM DO STACK OVERFLOW? &lpar;COMO EU USO IA AGORA&rpar; 💻🔥](https://www.youtube.com/shorts/lvr4LE80_A4)
 - [Como a IA me salvou no Front-end &lpar;3 meses em 5 dias&rpar;](https://www.youtube.com/shorts/PKFG6j65f80)
 - [CÓDIGO NÃO É TUDO! Isso é o que te paga mais!](https://www.youtube.com/shorts/P4bLQ7VqTeg)
 - [Trabalho Remoto e Surf em Morro de São Paulo](https://www.youtube.com/watch?v=XRCHkHIZSW8)
 - [Surfando NO PARAÍSO | Morro de São Paulo - BA #surf #praia #nomadedigital](https://www.youtube.com/shorts/l0RoSU233YM)
-- [SEJA INSUBSTITUÍVEL! Só saber código não é o suficiente](https://www.youtube.com/shorts/aGqpQ-40QzM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
