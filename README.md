@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Usando várias IAs como uma equipe de dev](https://www.youtube.com/shorts/wRZKKS3R4TE)
 - [Como descobrir se a IA está inventando dados](https://www.youtube.com/shorts/6qmfRR0JQbU)
 - [Sua privacidade na IA NÃO EXISTE mais?](https://www.youtube.com/shorts/BiYIVoJ6J_M)
 - [O erro de quem trabalha demais &lpar;e esquece de viver&rpar;](https://www.youtube.com/shorts/9wKcolgALX4)
 - [O FIM DO STACK OVERFLOW? &lpar;COMO EU USO IA AGORA&rpar; 💻🔥](https://www.youtube.com/shorts/lvr4LE80_A4)
-- [Como a IA me salvou no Front-end &lpar;3 meses em 5 dias&rpar;](https://www.youtube.com/shorts/PKFG6j65f80)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
