@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos (PT-BR)
 
 <!-- YOUTUBE:START -->
+- [Mais onda em Acapulco! 🇲🇽🔥](https://www.youtube.com/shorts/5DBJJ7mS-CM)
 - [Pegando onda em Acapulco - México](https://www.youtube.com/shorts/-ErJFegyU7E)
 - [Voltei pra roça depois de 30 anos | vida no sertão da Bahia](https://www.youtube.com/watch?v=N9MiX4XUTzY)
 - [Usando várias IAs como uma equipe de dev](https://www.youtube.com/shorts/wRZKKS3R4TE)
 - [Como descobrir se a IA está inventando dados](https://www.youtube.com/shorts/6qmfRR0JQbU)
-- [Sua privacidade na IA NÃO EXISTE mais?](https://www.youtube.com/shorts/BiYIVoJ6J_M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/PauloSalvatore)
